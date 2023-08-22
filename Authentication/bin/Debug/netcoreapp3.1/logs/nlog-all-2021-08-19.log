@@ -1,0 +1,84 @@
+2021-08-19 10:49:56.1512||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 10:49:59.3407|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 11:44:37.1074||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 11:44:43.7999|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 11:45:14.8673||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 11:45:18.4342||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:36:33.6477||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 12:36:40.9579||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 12:36:42.3305||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 12:37:16.4131||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:37:17.8197||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:37:51.4308||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:37:51.7033||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:44:48.5631||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:44:50.0416||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:46:41.1560||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:46:41.4206||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:48:04.5038||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:48:04.7859||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:50:56.2729||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:50:56.5418||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:53:05.6567||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:53:05.9718||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:53:58.0203||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:53:58.2907||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:54:17.4526||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:54:17.7228||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:57:06.5200||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:57:07.5003||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 12:57:26.2821||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 12:57:27.7632||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:47:00.4618||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 13:47:05.1114|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 13:47:33.3197||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:47:36.3240||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:49:52.9604||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 13:50:00.7082||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 13:50:02.0344||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 13:50:13.7500||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:50:15.2886||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:54:21.4033||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:54:22.0670||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:54:56.1889||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 13:55:00.0485||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 13:55:00.3139||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 13:55:03.8379||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:55:05.1318||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:56:17.0204||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:56:17.3004||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:57:26.4035||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:57:26.6615||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:57:29.6729||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 13:57:32.7819||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 13:57:33.0556||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 13:57:36.1482||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:57:36.4008||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 13:58:34.8809||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 13:58:36.5824||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 13:58:36.8374||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 13:58:38.8604||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility Get Starting 
+2021-08-19 13:58:39.1145||INFO|Framework.Authentication.API.Queries.FacilityQuery|AllFacility get completed successfully 
+2021-08-19 14:55:38.0790||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 14:55:39.5253|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 14:58:26.2268||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 14:58:55.0605||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'source') 
+2021-08-19 14:59:25.2281||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 14:59:26.3605|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 14:59:59.0680||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 15:33:24.7891||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 15:33:28.5693|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 18:22:18.9180||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 18:22:26.9987|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 18:25:44.3609||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 18:26:02.8141||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 18:26:04.3633||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 19:07:33.2579||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 19:07:37.8095||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 19:07:38.0708||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-19 20:36:40.0647||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-19 20:36:48.1899|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 21:06:48.9830||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 21:07:11.3008||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-19 21:07:15.2840||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-19 21:07:16.6805||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 

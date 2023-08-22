@@ -1,0 +1,95 @@
+2021-06-30 09:09:23.7565||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-30 09:09:27.3699|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-30 09:10:54.9082|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Azure.Cosmos.DocumentClient.HttpRequestMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.Azure.Cosmos.ClientExtensions.GetAsync(HttpClient client, Uri uri, INameValueCollection additionalHeaders, CancellationToken cancellationToken)
+   at Microsoft.Azure.Cosmos.GatewayAccountReader.GetDatabaseAccountAsync(Uri serviceEndpoint)
+   at Microsoft.Azure.Cosmos.Routing.GlobalEndpointManager.GetDatabaseAccountFromAnyLocationsAsync(Uri defaultEndpoint, IList`1 locations, Func`2 getDatabaseAccountFn)
+   at Microsoft.Azure.Cosmos.GatewayAccountReader.InitializeReaderAsync()
+   at Microsoft.Azure.Cosmos.CosmosAccountServiceConfiguration.InitializeAsync()
+   at Microsoft.Azure.Cosmos.DocumentClient.InitializeGatewayConfigurationReaderAsync()
+   at Microsoft.Azure.Cosmos.DocumentClient.GetInitializationTaskAsync(IStoreClientFactory storeClientFactory)
+   at Microsoft.Azure.Cosmos.DocumentClient.EnsureValidClientAsync()
+   at Microsoft.Azure.Cosmos.Handlers.RequestInvokerHandler.EnsureValidClientAsync(RequestMessage request)
+   at Microsoft.Azure.Cosmos.Handlers.RequestInvokerHandler.SendAsync(RequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Azure.Cosmos.Handlers.RequestInvokerHandler.SendAsync(String resourceUriString, ResourceType resourceType, OperationType operationType, RequestOptions requestOptions, ContainerInternal cosmosContainerCore, Nullable`1 partitionKey, Stream streamPayload, Action`1 requestEnricher, CosmosDiagnosticsContext diagnosticsContext, CancellationToken cancellationToken)
+   at Microsoft.Azure.Cosmos.CosmosClient.<>c__DisplayClass30_0.<<CreateDatabaseIfNotExistsAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Azure.Cosmos.ClientContextCore.RunWithDiagnosticsHelperAsync[TResult](CosmosDiagnosticsContext diagnosticsContext, Func`2 task)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateDatabaseIfNotExistsOnceAsync(DbContext _, Object __, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateDatabaseIfNotExistsOnce(DbContext context, Object state)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementation[TState,TResult](Func`3 operation, Func`3 verifySucceeded, TState state)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateDatabaseIfNotExists()
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseCreator.EnsureCreated()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.EnsureCreated()
+   at FrameWork.Authentication.Infrastructure.Repositories.IdentityUserQuery..ctor(DBContext ctx) in D:\TFS\MobiCare\Microservices\Authentication\Infrastructure\Repositories\IdentityUserQuery.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 09:12:28.5699||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 09:12:29.6328||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 14:07:35.2168||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-30 14:07:40.5352|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-30 14:08:50.8442||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 14:27:19.1515||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-30 14:27:23.8676|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-30 14:33:57.6226||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 15:18:23.4781||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 15:21:26.3824||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 15:50:31.6193||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 15:51:02.0440||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 15:53:07.0029||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 15:55:12.6570||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:01:07.0395||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:20:22.0040||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:21:45.4253||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:21:48.0204||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:22:18.9870||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:22:57.7238||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:49:58.1580||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:56:02.5675||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 16:59:02.0203||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 17:28:56.9562||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 17:31:02.3733||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 17:35:04.3765||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 17:43:32.6517||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 18:08:22.8369||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-30 18:15:48.2736||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize

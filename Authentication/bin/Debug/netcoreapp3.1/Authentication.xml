@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authentication</name>
+    </assembly>
+    <members>
+        <member name="M:FrameWork.Authentication.API.Command.IdentityUserController.POST(FrameWork.Authentication.Domain.Models.IdentityUser)">
+            <summary>
+            Create user Method
+            </summary>
+            <param name="UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Command.IdentityUserController.UPDATEBYID(System.String,FrameWork.Authentication.Domain.Models.IdentityUser)">
+            <summary>
+            Update User Information
+            </summary>
+            <param name="UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Command.IdentityUserController.DELETE(FrameWork.Authentication.Domain.Models.IdentityUser)">
+            <summary>
+            Delete User Information
+            </summary>
+            <param name="UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Command.IdentityUserController.MERGE(FrameWork.Authentication.Domain.Models.IdentityUser)">
+            <summary>
+            Create user Method
+            </summary>
+            <param name="UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Queries.IdentityUserQueryController.Authorize(FrameWork.Authentication.Domain.Models.LoginInfo)">
+            <summary>
+            Get User Authorize
+            </summary>
+            <param name="LoginInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Queries.IdentityUserQueryController.GetById(System.String)">
+            <summary>
+            Get Userdetails by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Queries.IdentityUserQueryController.GetByRef(System.String)">
+            <summary>
+            Get User Details by Reference Id
+            </summary>
+            <param name="ReferenceId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FrameWork.Authentication.API.Queries.IdentityUserQueryController.ValidatePassword(System.String,System.String)">
+            <summary>
+            Validate the Password of User
+            </summary>
+            <param name="Password"></param>
+            <param name="UserId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

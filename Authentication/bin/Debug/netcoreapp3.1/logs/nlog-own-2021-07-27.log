@@ -1,0 +1,28 @@
+2021-07-27 08:59:25.6650||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-07-27 08:59:31.8231|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-27 09:00:38.3067||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-27 09:00:39.8955||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 09:00:39.9612||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 11:33:52.0800||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-07-27 11:33:58.3883|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-27 11:37:09.7659||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-07-27 11:37:17.0048|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-27 11:50:52.9740||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-07-27 11:50:56.5043|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-27 12:21:21.4428||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-07-27 12:21:26.5632|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-27 12:23:48.7971||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-27 12:23:50.5405||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 12:23:50.5921||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 12:27:27.0493||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-27 12:27:27.1633||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 12:27:27.1794||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 16:42:09.6550||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-27 16:42:10.0307||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 16:42:10.0453||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 16:53:46.4314||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-27 16:53:46.5430||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 16:53:46.5637||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 17:00:57.1717||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-27 17:00:57.4890||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-27 17:00:57.5078||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById

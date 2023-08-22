@@ -1,0 +1,59 @@
+2021-07-21 16:34:41.6541||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 16:34:54.5864|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 16:38:22.3375||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 16:38:22.6972||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 16:38:46.0773||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 16:38:46.0918||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 16:39:16.0397||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 16:39:16.0486||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 17:07:22.7623||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 17:07:26.6058|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 17:08:13.3730||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 17:08:13.6307||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 17:08:35.0815||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 17:08:35.0960||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 17:08:53.5953||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 17:08:53.5953||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 17:44:31.5308||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 17:44:36.6394|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 17:45:51.1240||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 17:45:51.3674||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 17:46:09.9000||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 17:46:09.9208||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 17:46:31.7095||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 17:46:31.7095||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 17:48:45.2719||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 17:48:51.8098|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 17:49:32.5461||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 17:49:32.8124||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 17:50:27.7129||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 17:50:27.7352||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:17:35.8254||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 18:17:45.2730|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 18:18:35.2180||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:18:35.4883||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:18:56.2498||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:18:56.2498||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:19:11.0708||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 18:19:11.0849||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 18:31:21.3699||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:31:21.3849||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:31:34.2010||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:31:34.2072||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:32:06.7605||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:32:59.8206||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:34:02.1738||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:34:55.4992||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:35:15.8056||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:43:43.3738||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 18:43:51.8213|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 18:48:03.5653||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 18:48:08.2009|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-21 18:48:23.2027||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:48:31.0144||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully |url: http://localhost/api/AppSettings/POST|action: POST
+2021-07-21 18:48:54.2276||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 18:48:57.1366||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully |url: http://localhost/api/FieldSettings/POST|action: POST
+2021-07-21 18:49:18.0254||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 18:49:19.5092||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully |url: http://localhost/api/SysSettings/POST|action: POST
+2021-07-21 19:34:54.9068||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-21 19:35:02.9219|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 

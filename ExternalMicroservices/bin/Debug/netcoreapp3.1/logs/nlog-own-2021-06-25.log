@@ -1,0 +1,4 @@
+2021-06-25 21:11:50.0706||DEBUG|Configuration.Program|init main |url: |action: 
+2021-06-25 21:11:53.5405|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-25 21:13:42.8734||DEBUG|Configuration.Program|init main |url: |action: 
+2021-06-25 21:13:44.5525|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 

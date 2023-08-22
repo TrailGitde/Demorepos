@@ -1,0 +1,149 @@
+2021-07-05 08:59:13.7788||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-05 08:59:23.8586|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-05 09:10:43.8796||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 09:48:51.7739||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-05 09:48:53.6935|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-05 09:49:39.0371||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-05 09:49:44.0211|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-05 09:52:14.5749||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 09:54:13.2613||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-05 09:54:18.5391|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-05 11:17:33.7873||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-05 11:17:38.7681|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-05 11:19:38.8545||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:19:53.5723||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:20:34.3725||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:21:11.8483||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:21:16.4659||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:23:00.3372||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:24:37.6481||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:25:49.2744||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:48:33.8811||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:49:20.3166||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:50:01.7692||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:51:33.9528||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:53:42.2925||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:57:25.3983||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:57:46.9093||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 11:58:21.9575||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:00:06.7481||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 12:00:06.8059||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 12:01:49.2792||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:02:11.5415||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 12:02:11.5587||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 12:02:25.5507||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:02:34.0653||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 12:02:34.0653||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 12:03:09.0480||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:03:13.8138||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 12:03:13.8138||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 12:14:08.3338||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:15:40.8202||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:17:26.1312||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:27:06.8510||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:49:51.8528||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 12:59:29.5241||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:13:26.4530||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:19:25.4576||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:28:32.2461||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:28:39.7523||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:28:39.7523||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:30:36.9931||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:30:40.1328||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:30:40.1409||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:31:30.5425||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:31:37.3143||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:31:37.3143||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:32:28.2574||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:32:31.6988||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:32:31.7147||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:34:25.9181||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:34:29.6360||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:34:29.6477||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:34:59.5218||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:35:05.4950||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:35:05.5066||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:36:48.0620||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:36:51.8137||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:36:51.8137||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:39:16.8638||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:39:21.1608||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:39:21.1608||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:43:39.6732||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:43:45.3190||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:43:45.3322||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:47:33.2892||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:47:36.7572||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:47:36.7572||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:48:03.1331||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:48:03.2005||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:48:03.2096||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:55:14.3493||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:55:58.3238||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:56:39.9470||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:56:58.6843||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:56:58.7133||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 14:57:22.5590||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 14:57:29.1177||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 14:57:29.1406||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:10:53.1681||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:10:54.6047||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:10:54.6135||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:45:08.4429||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:45:14.9000||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:45:14.9133||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:48:02.3466||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:48:07.2085||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:48:07.2085||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:48:54.4363||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:48:54.5138||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:48:54.5217||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:50:16.1330||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:50:16.2255||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:50:16.2255||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:51:48.6370||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:51:48.7044||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:51:48.7044||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 15:53:12.7575||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 15:53:12.8194||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 15:53:12.8353||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 16:30:42.7460||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 16:30:42.9650||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 16:30:42.9993||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 16:30:48.7300||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 16:30:48.7913||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 16:30:48.7998||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 16:32:21.0560||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 16:32:21.1307||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 16:32:21.1307||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 16:43:39.8879||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 16:43:39.9648||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 16:43:39.9731||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 16:44:47.3598||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 16:44:47.4277||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 16:44:47.4277||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 17:04:57.0574||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 17:04:57.1151||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 17:04:57.1263||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 17:21:52.7633||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 17:21:52.8301||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 17:21:52.8301||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 19:16:17.7564||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 19:16:17.8941||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 19:16:17.8941||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 19:42:07.7652||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 19:42:07.8398||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 19:42:07.8505||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 21:59:38.4618||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 21:59:38.5862||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 21:59:38.5947||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 22:02:03.8831||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 22:02:03.9474||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 22:02:03.9549||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 22:16:29.3583||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 22:20:43.6128||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 22:20:43.7227||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 22:20:43.7376||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-05 22:35:12.2597||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-05 22:35:12.3461||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-05 22:35:12.3461||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 

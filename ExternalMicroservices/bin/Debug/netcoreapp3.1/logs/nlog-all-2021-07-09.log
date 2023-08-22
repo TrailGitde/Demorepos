@@ -1,0 +1,24 @@
+2021-07-09 07:20:11.5219||DEBUG|Configuration.Program|init main 
+2021-07-09 07:20:15.1089|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 07:21:25.6613||DEBUG|Configuration.Program|init main 
+2021-07-09 07:21:31.2918|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 07:40:41.2484||DEBUG|Configuration.Program|init main 
+2021-07-09 07:40:47.0215|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 09:17:31.5965||DEBUG|Configuration.Program|init main 
+2021-07-09 09:17:35.2743|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 10:01:10.2129||DEBUG|Configuration.Program|init main 
+2021-07-09 10:01:14.7965|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 10:25:56.9135||DEBUG|Configuration.Program|init main 
+2021-07-09 10:26:01.1688|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 10:33:38.3502||DEBUG|Configuration.Program|init main 
+2021-07-09 10:33:41.7106|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 15:58:55.6657||DEBUG|Configuration.Program|init main 
+2021-07-09 15:59:08.6074|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 16:01:47.4246||DEBUG|Configuration.Program|init main 
+2021-07-09 16:01:51.7166|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 16:33:26.7587||DEBUG|Configuration.Program|init main 
+2021-07-09 16:33:30.9610|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 16:33:57.4678||DEBUG|Configuration.Program|init main 
+2021-07-09 16:34:01.5721|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-09 21:24:37.9083||DEBUG|Configuration.Program|init main 
+2021-07-09 21:24:45.0705|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 

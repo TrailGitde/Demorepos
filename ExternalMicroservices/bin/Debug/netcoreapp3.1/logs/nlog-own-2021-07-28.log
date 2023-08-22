@@ -1,0 +1,53 @@
+2021-07-28 11:42:22.0653||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 11:42:34.2318|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 13:07:51.9486||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 13:07:55.4330|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 13:08:43.8249||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 13:08:47.1801|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 13:13:51.4652||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 13:13:55.0012|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 13:17:59.2579||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 13:18:04.1238|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 16:38:15.2971||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 16:38:18.8108|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/sockjs-node/info|action: 
+2021-07-28 16:50:04.5695||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 16:50:07.3334|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 16:59:10.9348||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 16:59:14.9633|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 17:28:47.1520||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 17:28:50.9400|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 17:32:59.1414||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 17:33:02.6108|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 18:16:27.4703||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 18:16:32.3760|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 18:20:13.6642||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 18:20:17.7873|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:03:13.1016||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:03:17.9292|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:07:31.9900||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:07:36.2084|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:15:49.8617||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:15:54.3243|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:22:22.6662||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:22:28.5712|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:23:43.0618||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:23:48.3116|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:25:53.6652||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:25:58.2630|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:30:07.3893||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:30:11.5871|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:33:09.5830||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:33:13.8978|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:41:19.0225||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:41:23.9623|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:43:49.3942||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:43:54.6804|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:45:56.2902||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:46:00.8176|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:51:19.7209||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:51:24.6481|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:54:56.0536||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:55:00.8895|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 19:56:02.9752||DEBUG|Configuration.Program|init main |url: |action: 
+2021-07-28 19:56:07.3195|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-28 20:32:52.9338||DEBUG|Configuration.Program|init main |url: |action: 

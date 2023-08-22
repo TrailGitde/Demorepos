@@ -1,0 +1,124 @@
+2021-06-29 10:14:34.3210||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-29 10:14:40.0162|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-29 10:33:56.0038||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 10:33:56.9405||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 11:55:26.8019||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-29 11:55:33.1066|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-29 12:13:09.3237||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-29 12:13:12.9505|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-29 12:18:00.8415||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:18:01.4166||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:19:47.0016||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:19:47.0217||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:23:06.7234||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:23:06.7376||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:26:27.3548||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:26:27.3548||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:26:39.7732||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:26:39.7831||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:32:33.2063||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:32:33.2197||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:33:48.6419||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:33:48.6540||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:37:24.2756||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:37:24.2917||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:39:39.7007||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:39:39.7007||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:41:47.4737||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:41:47.4855||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:42:56.5846||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 12:42:56.5944||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:10:01.8885||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:10:01.8885||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:10:36.7126||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:10:36.7222||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:11:08.1824||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:11:08.1913||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 13:58:52.6309||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-29 13:58:56.4981|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-29 14:12:24.0289||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:12:24.8539||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:13:02.5726||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:13:02.5930||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:13:09.9931||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:13:10.0029||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:27:42.0466||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:27:42.0466||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:28:42.8834||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:28:42.8992||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:28:55.6251||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:28:55.6251||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:32:24.4805||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:32:24.4805||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:32:30.7566||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 14:32:30.7652||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:10:04.0144||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:10:04.0144||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:10:40.0841||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:10:40.0971||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:14:23.6792||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:14:23.6892||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:14:50.7182||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:14:50.7300||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:34:05.9099||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:34:05.9258||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:35:49.8772||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:35:49.8858||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:38:25.8102||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:38:25.8237||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:39:00.1649||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:39:00.1733||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:39:18.4409||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:39:18.4520||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:43:43.7357||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:43:43.7455||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:44:04.3206||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:44:04.3296||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:50:51.8209||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:50:51.8305||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:02.1911||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:02.1982||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:16.8782||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:16.8877||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:35.7552||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:35.7645||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:50.9467||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:52:50.9566||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:59:07.1024||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 15:59:07.1194||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 16:11:02.8008||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:11:03.0082||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:12:12.6500||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:20.5593||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:20.5850||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:22.2741||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:39.1499||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:39.2122||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:49.7838||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:16:49.8480||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:17:13.2293||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:17:13.2971||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:19:30.0676||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:19:30.1291||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:19:59.6385||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:19:59.7011||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:21:19.5311||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:21:19.5911||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Value cannot be null. (Parameter 'key') |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:28:45.0016||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:28:45.2253||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:39:31.0006||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:39:31.0006||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:52:22.9804||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:52:22.9804||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:53:30.5565||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 16:53:30.5665||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-06-29 17:20:43.1730||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 17:20:43.2481||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 17:56:37.0408||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 17:56:37.0408||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-29 18:02:37.6954||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-06-29 18:02:37.8215||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-06-29 18:03:27.7582||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-06-29 18:03:27.7582||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-06-29 18:04:21.1866||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-06-29 18:04:21.1866||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE

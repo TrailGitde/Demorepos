@@ -1,0 +1,34 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/Authorize",
+      "UpstreamHttpMethod": [
+        "GET"
+      ],
+      "SwaggerKey": "AuthenticationMS",
+      "DownstreamPathTemplate": "/api/Authentication/Authorize",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001 // Replace the Authentication MS hosted port number
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/RefreshToken",
+      "UpstreamHttpMethod": [
+        "POST"
+      ],
+      "SwaggerKey": "AuthenticationMS",
+      "DownstreamPathTemplate": "/api/Authentication/RefreshToken",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ]
+    }
+  ]
+}

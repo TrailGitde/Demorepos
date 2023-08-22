@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authentication</name>
+    </assembly>
+    <members>
+        <member name="M:Authentication.Application.Command.UserController.POST(Authentication.Domain.Models.User)">
+            <summary>
+            Create user Method
+            </summary>
+            <param name="_UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.Application.Command.UserController.UPDATE(Authentication.Domain.Models.User)">
+            <summary>
+            Update User Information
+            </summary>
+            <param name="_UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.Application.Command.UserController.DELETE(Authentication.Domain.Models.User)">
+            <summary>
+            Delete User Information
+            </summary>
+            <param name="_UserInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.Application.Queries.UserQueryController.Authorize(Authentication.Domain.Models.loginInfo)">
+            <summary>
+            Get User Authorize
+            </summary>
+            <param name="_LoginInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.Application.Queries.UserQueryController.GetById(System.String)">
+            <summary>
+            Get Userdetails by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.Application.Queries.UserQueryController.GetByRef(System.String)">
+            <summary>
+            Get User Details by Reference Id
+            </summary>
+            <param name="ReferenceId"></param>
+            <returns></returns>
+        </member>
+      <member name="M:Authentication.Application.Queries.UserQueryController.ValidatePassword(System.String)">
+        <summary>
+          Validate the Password of User
+        </summary>
+        <param name="Password"></param>
+        <param name="UserId"></param>
+        <returns></returns>
+      </member>
+    </members>
+</doc>

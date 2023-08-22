@@ -1,0 +1,30 @@
+2021-08-21 08:01:33.8323||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-21 08:01:36.4460|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-21 08:02:17.6153||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User MERGE Starting 
+2021-08-21 08:02:43.9570||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User MERGE Suucessfully completed 
+2021-08-21 08:02:59.4322||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User MERGE Starting 
+2021-08-21 08:03:28.7299||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User MERGE Suucessfully completed 
+2021-08-21 08:10:28.9314||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User MERGE Starting 
+2021-08-21 08:10:45.4533||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User MERGE Suucessfully completed 
+2021-08-21 08:14:16.9650||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 08:14:25.7672||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Object reference not set to an instance of an object. 
+2021-08-21 08:15:22.2842||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 08:35:57.9261||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-21 08:36:02.6336|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-21 08:36:48.9281||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 17:12:53.4768||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-21 17:12:55.6029|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-21 17:13:47.8354||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 17:17:21.6204||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-21 17:17:22.9728|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-21 17:18:00.6103||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 17:18:37.3144||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 17:18:48.9926||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-08-21 17:44:09.3122||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-21 17:44:10.6062|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-21 17:44:33.8584||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 17:44:55.6324||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-08-21 17:45:44.1690||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-21 17:46:26.8772||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-21 17:46:28.2813|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-21 17:46:52.8523||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 

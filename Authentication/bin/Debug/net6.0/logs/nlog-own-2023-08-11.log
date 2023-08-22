@@ -1,0 +1,81 @@
+2023-08-11 13:05:30.6014||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2023-08-11 13:05:37.1998|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2023-08-11 13:12:47.6049||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2023-08-11 13:12:49.1775|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger/index.html|action: 
+2023-08-11 13:25:10.5272||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2023-08-11 13:25:12.2217|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger/index.html|action: 
+2023-08-11 13:28:05.9285||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2023-08-11 13:28:07.8973|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'FrameWork.Authentication.Domain.Models.DBContext'.
+Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.);
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2023-08-11T07:58:07.8790948Z","RunningElapsedTimeInMs":15.1639,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|03|X64|Microsoft Windows 10.0.22621|.NET 6.0.21|","TotalRequestCount":0,"FailedRequestCount":0},"Context":[]} Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.);
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2023-08-11T07:58:07.8790948Z","RunningElapsedTimeInMs":26.3144,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|03|X64|Microsoft Windows 10.0.22621|.NET 6.0.21|","TotalRequestCount":0,"FailedRequestCount":0},"Context":[]}|url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2023-08-11 13:28:08.4918||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.); |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2023-08-11 13:28:58.4116||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2023-08-11 13:29:17.1453|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'FrameWork.Authentication.Domain.Models.DBContext'.
+Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.);
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2023-08-11T07:59:17.1448904Z","RunningElapsedTimeInMs":0.4624,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|03|X64|Microsoft Windows 10.0.22621|.NET 6.0.21|","TotalRequestCount":0,"FailedRequestCount":0},"Context":[]} Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.);
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2023-08-11T07:59:17.1448904Z","RunningElapsedTimeInMs":1.5932,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|03|X64|Microsoft Windows 10.0.22621|.NET 6.0.21|","TotalRequestCount":0,"FailedRequestCount":0},"Context":[]}|url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2023-08-11 13:29:20.2327|10100|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'FrameWork.Authentication.Domain.Models.DBContext'.
+Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.);
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2023-08-11T07:59:20.2323232Z","RunningElapsedTimeInMs":0.3843,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|03|X64|Microsoft Windows 10.0.22621|.NET 6.0.21|","TotalRequestCount":0,"FailedRequestCount":0},"Context":[]} Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: InternalServerError (500); Substatus: 0; ActivityId: 00000000-0000-0000-0000-000000000000; Reason: (No such host is known.);
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2023-08-11T07:59:20.2323232Z","RunningElapsedTimeInMs":1.3246,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|03|X64|Microsoft Windows 10.0.22621|.NET 6.0.21|","TotalRequestCount":0,"FailedRequestCount":0},"Context":[]}|url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize

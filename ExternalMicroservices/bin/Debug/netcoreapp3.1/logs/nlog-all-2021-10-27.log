@@ -1,0 +1,2 @@
+2021-10-27 09:57:17.4169||DEBUG|Configuration.Program|init main 
+2021-10-27 09:57:27.3031|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 

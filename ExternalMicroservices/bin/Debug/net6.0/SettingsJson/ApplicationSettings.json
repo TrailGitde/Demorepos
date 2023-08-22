@@ -1,0 +1,698 @@
+[
+	{
+		"id": "418b699b-21fc-444d-a362-1b1976bb2953",
+		"Control": "Boolean",
+		"Key": "Mobicare.Invoice.Discount.Display",
+		"Remarks": "Enable discount on invoice screen",
+		"Type": "AppSettings",
+		"Value": "true",
+		"Validation": null
+	},
+	{
+		"id": "3ada20a7-fc8a-42bc-9bd0-6c4c83cbafd2",
+		"Key": "Mobicare.Visit.File.MaxLimit",
+		"Remarks": "Max no. of files can be uploaded against a visit",
+		"Type": "AppSettings",
+		"Value": "5",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "4e66cd75-0291-4dd4-8c69-4a0978c95400",
+		"Key": "Mobicare.Appointment.Slot.MaxLimit",
+		"Remarks": "Maximum no. of appointments in a slot",
+		"Type": "AppSettings",
+		"Value": "3",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "e30cb845-3b99-429e-ae75-c038ffa1f5fd",
+		"Key": "External.Appointment.Files.Edit",
+		"Remarks": "Allow edit - Files of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "112768b1-1658-4533-8d66-c68eb3db63a6",
+		"Key": "Mobicare.Appointment.File.Formats",
+		"Remarks": "File formats allowed to upload",
+		"Type": "AppSettings",
+		"Value": ".png,.jpg,.jpeg,.pdf",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "96bd0f97-d26c-4659-ab85-6deb74d5607f",
+		"Key": "External.Appointment.Name.Edit",
+		"Remarks": "Allow edit - Patient Name of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "db3e83ed-3503-4c4d-ba7c-6bfa2ecf9178",
+		"Key": "External.Appointment.EndTime.Edit",
+		"Remarks": "Allow edit - end time of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "f99a04e6-b66e-4bb8-9ce3-d7a09808b984",
+		"Key": "External.Appointment.StartTime.Edit",
+		"Remarks": "Allow edit - start time of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "765bbf4f-66c4-4cd5-871d-fbb23067c5e1",
+		"Key": "Mobicare.Appointment.Slot.Interval",
+		"Remarks": "Slot division based on time interval in mins",
+		"Type": "AppSettings",
+		"Value": "30",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "50c39cda-5c98-4b05-a15a-6032af13af77",
+		"Key": "External.Appointment.ReferredBy.Edit",
+		"Remarks": "Allow edit - Referred by of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "936d8918-7e97-4da3-b70a-2f328c22a465",
+		"Key": "Mobicare.Invoice.File.Formats",
+		"Remarks": "File formats allowed to upload",
+		"Type": "AppSettings",
+		"Value": ".jpg,.jpeg,.png",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "b782de98-ec8d-4987-86f9-430dfb37673c",
+		"Key": "Mobicare.Visit.File.Formats",
+		"Remarks": "File formats allowed to upload",
+		"Type": "AppSettings",
+		"Value": ".jpg,.jpeg,.pdf,.png",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "855640e9-604c-4531-b212-0850dd15a831",
+		"Key": "Mobicare.Invoice.Payment.Currency",
+		"Remarks": "Invoice Payment of Currency",
+		"Type": "AppSettings",
+		"Value": "AED",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "dac2de4a-5ea9-489c-984d-524b7aeb55bb",
+		"Key": "Mobicare.Appointment.File.FolderName",
+		"Remarks": "Appointment Uploaded Files Folder Name",
+		"Type": "AppSettings",
+		"Value": "Appointment",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "d3a9b89d-e6b3-4ca2-9bb8-169049f15ca1",
+		"Key": "Mobicare.Appointment.File.MaxLimit",
+		"Remarks": "Max no. of files can be uploaded against an appointment",
+		"Type": "AppSettings",
+		"Value": "3",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "f87d2fb0-34c1-4da0-9222-f1c6c8690e2b",
+		"Key": "External.Appointment.Gender.Edit",
+		"Remarks": "Allow edit - Gender of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "c9b044a3-dfea-46fb-8319-096b8c63c9d7",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.File.MaxLimit",
+		"Remarks": "Max no. of files can be uploaded against payment of a invoice",
+		"Type": "AppSettings",
+		"Value": "2",
+		"Validation": null
+	},
+	{
+		"id": "ced3a326-4e0a-44be-b2ac-05bb18180b83",
+		"Key": "Mobicare.Visit.File.FolderName",
+		"Remarks": "Visit Uploaded Files Folder Name",
+		"Type": "AppSettings",
+		"Value": "Visit",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "62f1f3da-9e82-4045-a1e8-d56984503ba0",
+		"Key": "External.Appointment.Tests.Edit",
+		"Remarks": "Allow edit - Tests of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "6fa57a7c-421c-4312-948f-0ab67a6deb06",
+		"Key": "External.Appointment.Remarks.Edit",
+		"Remarks": "Allow edit - Remarks of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "ee5f1228-4f2c-4ed9-978d-2d8fb5897b7d",
+		"Key": "External.Appointment.Location.Edit",
+		"Remarks": "Allow edit - Location of external appointment",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "d6b88041-3046-4445-adf9-70055ae8fd89",
+		"Key": "External.Appointment.Address.Edit",
+		"Remarks": "Allow edit - Address of external appointment",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "571b4b70-f4ff-4006-8cb7-3e2b3810943c",
+		"Key": "External.Appointment.Mobile.Edit",
+		"Remarks": "Allow edit - Mobile of external appointment",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "5ff38daf-8a7a-4086-b091-1f847d211cd7",
+		"Key": "Mobicare.Invoice.File.FolderName",
+		"Remarks": "Invoice Uploaded Files Folder Name",
+		"Type": "AppSettings",
+		"Value": "Invoice",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "cf69e0b6-6efa-432d-be4e-ff9e6d777ed3",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Email.FromEmailId",
+		"Remarks": "From mail id to send email for visit completed and invoiced patient ",
+		"Type": "AppSettings",
+		"Value": "no-reply@unite.care",
+		"Validation": null
+	},
+	{
+		"id": "12c8dfc7-862e-47d5-a912-68eab4267565",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Email.FromName",
+		"Remarks": "From Name to send email for visit completed and invoiced patient ",
+		"Type": "AppSettings",
+		"Value": "Unite Care",
+		"Validation": null
+	},
+	{
+		"id": "a672a795-d20e-41cf-882f-0a6c96b4ddf2",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Email.UserName",
+		"Remarks": "Smtp User id to send email for visit completed and invoiced patient ",
+		"Type": "AppSettings",
+		"Value": "AKIA5HM3AV5445IHCUIR",
+		"Validation": null
+	},
+	{
+		"id": "d9b0581a-8b5c-4322-9f42-b7c667af67b9",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Email.Password",
+		"Remarks": "Smtp password to send email for visit completed and invoiced patient ",
+		"Type": "AppSettings",
+		"Value": "BNt6TDFLmCx9HLeu/gxJ8I8uYc5MLEe9oknamC4VaIu0",
+		"Validation": null
+	},
+	{
+		"id": "120b754d-0c9b-4be0-8b20-980ff1a6b425",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Email.HostName",
+		"Remarks": "Smtp host to send email for visit completed and invoiced patient ",
+		"Type": "AppSettings",
+		"Value": "email-smtp.ap-south-1.amazonaws.com",
+		"Validation": null
+	},
+	{
+		"id": "1ef433d4-4cd4-4905-8098-e0791272894f",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Email.PortNumber",
+		"Remarks": "Smtp port number to send email for visit completed and invoiced patient ",
+		"Type": "AppSettings",
+		"Value": "587",
+		"Validation": null
+	},
+	{
+		"id": "8de4b340-da00-4833-815f-1a0c6fa4ff17",
+		"Control": "Boolean",
+		"Discriminator": "Settings",
+		"Key": "Mobicare.Invoice.Email.Enable",
+		"Remarks": "Enable send email option in invoice screen",
+		"Type": "AppSettings",
+		"Value": "false",
+		"Validation": []
+	},
+	{
+		"id": "0f9da84e-1f4e-489a-84ad-de29e3477ea1",
+		"Key": "Mobicare.Invoice.Payment.DefaultMode",
+		"Remarks": "Default Payment Mode in Invoice",
+		"Type": "AppSettings",
+		"Value": "Cash",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "7336b425-2dc7-421d-8fdf-e8f1d1ec4b77",
+		"Key": "Mobicare.File.BlobStorage.ContainerName",
+		"Remarks": "Blob storage ContainerName file upload/read/delete ",
+		"Type": "AppSettings",
+		"Value": "mobicaretest",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "a9c38935-e0a1-444d-bf1a-aaeea57c5203",
+		"Key": "Unite.BaseURL",
+		"Remarks": "Base URL for Unite API",
+		"Type": "AppSettings",
+		"Value": "http://unitedxbdev.ddnsfree.com:8081/UniteCareAPI/",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "3c16f796-e745-4423-8e5f-3190e80e40a5",
+		"Key": "Mobicare.BaseURL",
+		"Remarks": "Base URL for Mobicare API",
+		"Type": "AppSettings",
+		"Value": "http://mobicaregateway.unitecaredxb.com:8108/",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "52fce208-f9a7-43d9-a3f6-ecdc18748bbd",
+		"Key": "Mobicare.Appointment.Notification.Url",
+		"Remarks": "SignalR notification url",
+		"Type": "AppSettings",
+		"Value": "http://mobicareapi.unitecaredxb.com:8109/notify",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "c353a633-7460-4140-afe0-5707146b1782",
+		"Key": "Mobicare.Appointment.Tests.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Tests control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "8e2c0ebe-5c67-48ba-9fac-0f4a20a914e6",
+		"Key": "Mobicare.Appointment.Location.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Location control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "46023064-25b0-44c1-995f-70669f8ba77a",
+		"Key": "Mobicare.UserProfile.MobileNo.IsMandatory",
+		"Remarks": "To enable or disable mandatory for MobileNo control in UserProfile screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "0174044f-eae9-47f2-96ab-e36fab9f2097",
+		"Key": "Mobicare.UserProfile.Name.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Name control in UserProfile screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "868f4282-116a-4515-8e04-8bc356103a52",
+		"Key": "Mobicare.Appointment.Files.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Files control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "f969fbc8-4bf2-468e-b37e-f2adea79750e",
+		"Key": "Mobicare.Appointment.MobileNo.IsMandatory",
+		"Remarks": "To enable or disable mandatory for MobileNo control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "ebade444-da2f-458c-b18c-d0dbf6bab62f",
+		"Key": "Mobicare.Appointment.ReferredBy.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Referred By control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "353f5e27-82bb-4555-9158-5a65a0adf4f9",
+		"Key": "Mobicare.UserProfile.EmailId.IsMandatory",
+		"Remarks": "To enable or disable mandatory for EmailId control in UserProfile screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "1e072005-ad3b-4cd2-b934-c6172ff32d16",
+		"Key": "Mobicare.Appointment.Remarks.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Remarks control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "8eb3750a-cf84-4831-9fe7-34c3fa166325",
+		"Key": "Mobicare.Appointment.Address.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Address control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "26295310-b38b-4129-981f-968edad38b87",
+		"Key": "Mobicare.Appointment.Gender.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Gender control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "False",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "e34c75a3-899f-4fb2-a283-c0ff7e037ef6",
+		"Key": "Mobicare.Appointment.Name.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Name control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "6c7fcbff-88cb-4b81-9ff6-127f56246134",
+		"Key": "Mobicare.Appointment.EndTime.IsMandatory",
+		"Remarks": "To enable or disable mandatory for End time control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "ef70676f-2cd5-4f9e-8698-9d9efc46a0ff",
+		"Key": "Mobicare.Appointment.StartTime.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Start time control in Appointment screen",
+		"Type": "AppSettings",
+		"Value": "True",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "b1674139-5bc0-4703-b9f4-715071625830",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Visit.Items.AddButton",
+		"Remarks": "Hide the AddButton to add the item",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "9f6d5db1-1dbe-4371-b37d-567dbdb0c130",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Visit.Items.Reanoly",
+		"Remarks": "Added Items in readonly mode",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"Control": "Textbox",
+		"Discriminator": "Settings",
+		"Key": "Mobicare.Invoice.Email.CCMailId",
+		"Remarks": "Cc mail id extra",
+		"Type": "AppSettings",
+		"Value": "A@A.com",
+		"Validation": null,
+		"id": "84ed81d1-68dc-4147-8f65-6c6411090151"
+	},
+	{
+		"Control": "Textbox",
+		"Discriminator": "Settings",
+		"Key": "Mobicare.Invoice.Email.Subject",
+		"Remarks": "Subject Mail content Text",
+		"Type": "AppSettings",
+		"Value": "Invoice Receipt",
+		"Validation": null,
+		"id": "5008e5bc-4f28-46be-a863-5b60150ebda7"
+	},
+	{
+		"id": "ced35c86-c20c-4a57-9364-44f26c8a4c86",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.File.MaxSize",
+		"Remarks": "Max Size of file uploaded against a appointment in MB(Megabytes)",
+		"Value": "2",
+		"Control": "Textbox",
+		"Validation": null
+	},
+	{
+		"id": "ef476240-61dc-488c-8d81-24dd658ab6cf",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Invoice.File.MaxSize",
+		"Remarks": "Max Size of file uploaded against a invoice in MB(Megabytes)",
+		"Value": "2",
+		"Control": "Textbox",
+		"Validation": null
+	},
+	{
+		"id": "73d5bc83-9274-4527-bb22-56bc63bb0b1d",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Visit.File.MaxSize",
+		"Remarks": "Max Size of file uploaded against a visit in MB(Megabytes)",
+		"Value": "2",
+		"Control": "Textbox",
+		"Validation": null
+	},
+	{
+		"id": "86a5771c-7ac9-4f54-a9cf-30d7719b2dbb",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.MobileNo.IsDisplay",
+		"Remarks": "To Display MobileNo control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "23b8ac54-f693-4053-841d-03799e622ec8",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Tests.IsDisplay",
+		"Remarks": "To Display Tests control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "94d1da57-33b1-4d33-8c86-f2c9f0fb8ef3",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Location.IsDisplay",
+		"Remarks": "To Display Location control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "f26fb253-0d88-44b1-99ca-2576bb4d04d6",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Name.IsDisplay",
+		"Remarks": "To Display Name control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "ec96b8fa-67f4-4671-90f9-f0a2d0352746",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Files.IsDisplay",
+		"Remarks": "To Display Files control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "080676df-58f4-49f5-a498-f2b270888a3e",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Remarks.IsDisplay",
+		"Remarks": "To Display Remarks control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "48633f20-2927-4602-908e-2bfe1ccf0584",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.ReferredBy.IsDisplay",
+		"Remarks": "To Display ReferredBy control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "a51f7f08-55da-4ddd-95a4-a59b868d404e",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Address.IsDisplay",
+		"Remarks": "To Display Address control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "54f12e67-c319-4079-8ae3-c9439dfa15c8",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Gender.IsDisplay",
+		"Remarks": "To Display Gender control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "3ee697a0-f66c-4539-8238-bac9479237d4",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.EndTime.IsDisplay",
+		"Remarks": "To Display EndTime control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "86767a67-fc92-47c8-867b-404d5b85472e",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.StartTime.IsDisplay",
+		"Remarks": "To Display StartTime control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "aae1b822-a11b-49d4-a959-517a0551c471",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Services.IsDisplay",
+		"Remarks": "To Display Services control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": []
+	},
+	{
+		"id": "7d7fed7e-ddcf-4bea-baad-ea9e76c65fa4",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Area.IsDisplay",
+		"Remarks": "To Display Area control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": []
+	},
+	{
+		"id": "7de22a4d-f3d8-4fbb-8437-ee0d0094fca6",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Invoice.Quantity.IsDisplay",
+		"Remarks": "Add/Minus Quantity display on invoice screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": []
+	},
+	{
+		"id": "20181803-cf3b-414e-92ad-c9c1ca89fc14",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Area.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Area control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "3864d155-44d8-49fa-b774-bd26bc9dfca7",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Appointment.Services.IsMandatory",
+		"Remarks": "To enable or disable mandatory for Services control in Appointment screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "87cb582e-2743-45b9-a673-796aa354ed52",
+		"Type": "AppSettings",
+		"Key": "External.Appointment.Services.Edit",
+		"Remarks": "Allow edit - Services of external appointment",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "1a91b964-f1f1-4851-995c-f0293d54cf37",
+		"Type": "AppSettings",
+		"Key": "External.Appointment.Area.Edit",
+		"Remarks": "Allow edit - Area of external appointment",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "17a7ae96-74b4-4b1e-9a8e-b9414589d9bc",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Invoice.Page.Editable",
+		"Remarks": "Editable Invoice Once Invoice generate in screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": null
+	},
+	{
+		"id": "7bf962fb-8138-423d-ad11-999e0af113e8",
+		"Type": "AppSettings",
+		"Key": "Mobicare.Visit.Attachment.IsMandatory",
+		"Remarks": "Enable/Disable the photo id Attachment mandatory in visit screen",
+		"Value": "True",
+		"Control": "Boolean",
+		"Validation": []
+	}
+]

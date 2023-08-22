@@ -1,0 +1,22 @@
+2021-07-26 10:49:08.4064||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-26 10:49:17.0340|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 12:09:14.7779||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-26 12:09:20.6304|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 12:14:05.1057||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-26 12:14:06.9094||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-26 12:14:06.9821||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-26 14:14:04.1019||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-26 14:14:04.2781||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-26 14:14:04.2908||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-26 15:10:49.4906||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-26 15:11:01.6988|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 16:41:33.7496||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-26 16:41:39.4792|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 16:42:05.1290||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-26 16:42:06.4588||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-26 16:42:06.5243||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-07-26 17:12:53.2016||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-26 17:12:57.0755|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 17:13:27.5503||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-26 17:13:28.8081||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-07-26 17:13:28.8500||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 

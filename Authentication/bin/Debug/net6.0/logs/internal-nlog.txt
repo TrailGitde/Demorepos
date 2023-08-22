@@ -1,0 +1,280 @@
+2023-08-11 13:05:30.3790 Info Message Template Auto Format enabled
+2023-08-11 13:05:30.3876 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-11 13:05:30.5126 Info Adding target FileTarget(Name=allfile)
+2023-08-11 13:05:30.5288 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-11 13:05:30.5599 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\TFS\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-11 13:09:06.8407 Info Shutdown() called. Logger closing...
+2023-08-11 13:09:06.8407 Info Closing old configuration.
+2023-08-11 13:09:06.8561 Info Logger has been closed down.
+2023-08-11 13:09:06.8561 Info AppDomain Shutting down. Logger closing...
+2023-08-11 13:09:06.8561 Info Logger has been shut down.
+2023-08-11 13:12:47.2090 Info Message Template Auto Format enabled
+2023-08-11 13:12:47.2407 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-11 13:12:47.4060 Info Adding target FileTarget(Name=allfile)
+2023-08-11 13:12:47.4509 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-11 13:12:47.5082 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\TFS\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-11 13:25:10.2897 Info Message Template Auto Format enabled
+2023-08-11 13:25:10.3330 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-11 13:25:10.4151 Info Adding target FileTarget(Name=allfile)
+2023-08-11 13:25:10.4151 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-11 13:25:10.4741 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\TFS\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:09:51.6928 Info Message Template Auto Format enabled
+2023-08-16 12:09:51.7066 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:09:51.8397 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:09:51.8619 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:09:51.9646 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:27:37.5227 Info Message Template Auto Format enabled
+2023-08-16 12:27:37.5417 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:27:37.6454 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:27:37.6454 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:27:37.7117 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:28:08.3704 Info Message Template Auto Format enabled
+2023-08-16 12:28:08.3820 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:28:08.4652 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:28:08.4844 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:28:08.5463 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:29:43.1875 Info Message Template Auto Format enabled
+2023-08-16 12:29:43.2031 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:29:43.3229 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:29:43.3377 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:29:43.3908 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:30:59.0127 Info Message Template Auto Format enabled
+2023-08-16 12:30:59.0281 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:30:59.0977 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:30:59.0977 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:30:59.1477 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:32:04.9561 Info Message Template Auto Format enabled
+2023-08-16 12:32:04.9561 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:32:05.0635 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:32:05.0668 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:32:05.1355 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:37:25.4055 Info Message Template Auto Format enabled
+2023-08-16 12:37:25.4275 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:37:25.5705 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:37:25.5921 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:37:25.6649 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:52:21.9293 Info Message Template Auto Format enabled
+2023-08-16 12:52:21.9630 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:52:22.1812 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:52:22.2519 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:52:22.3587 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 12:53:19.4408 Info Message Template Auto Format enabled
+2023-08-16 12:53:19.4408 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 12:53:19.5259 Info Adding target FileTarget(Name=allfile)
+2023-08-16 12:53:19.5422 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 12:53:19.5823 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 13:10:27.5699 Info Message Template Auto Format enabled
+2023-08-16 13:10:27.5814 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 13:10:27.6998 Info Adding target FileTarget(Name=allfile)
+2023-08-16 13:10:27.7095 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 13:10:27.7500 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 13:18:28.7134 Info Message Template Auto Format enabled
+2023-08-16 13:18:28.7306 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 13:18:28.8166 Info Adding target FileTarget(Name=allfile)
+2023-08-16 13:18:28.8166 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 13:18:28.8762 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 13:19:57.4937 Info Message Template Auto Format enabled
+2023-08-16 13:19:57.5067 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 13:19:57.5798 Info Adding target FileTarget(Name=allfile)
+2023-08-16 13:19:57.5820 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 13:19:57.6312 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 13:38:01.5753 Info Message Template Auto Format enabled
+2023-08-16 13:38:01.5878 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 13:38:01.6885 Info Adding target FileTarget(Name=allfile)
+2023-08-16 13:38:01.7094 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 13:38:01.7781 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 14:54:00.9117 Info Message Template Auto Format enabled
+2023-08-16 14:54:00.9318 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 14:54:01.0361 Info Adding target FileTarget(Name=allfile)
+2023-08-16 14:54:01.0361 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 14:54:01.1083 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 15:01:51.9175 Info Message Template Auto Format enabled
+2023-08-16 15:01:51.9338 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 15:01:52.0233 Info Adding target FileTarget(Name=allfile)
+2023-08-16 15:01:52.0233 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 15:01:52.0723 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 15:27:18.5803 Info Message Template Auto Format enabled
+2023-08-16 15:27:18.5932 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 15:27:18.6640 Info Adding target FileTarget(Name=allfile)
+2023-08-16 15:27:18.6759 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 15:27:18.7534 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 15:50:39.6230 Info Message Template Auto Format enabled
+2023-08-16 15:50:39.6455 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 15:50:39.7585 Info Adding target FileTarget(Name=allfile)
+2023-08-16 15:50:39.7786 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 15:50:39.8456 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 16:22:32.1655 Info Message Template Auto Format enabled
+2023-08-16 16:22:32.1775 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 16:22:32.2532 Info Adding target FileTarget(Name=allfile)
+2023-08-16 16:22:32.2532 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 16:22:32.2886 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 16:24:29.8889 Info Message Template Auto Format enabled
+2023-08-16 16:24:29.9062 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 16:24:30.0055 Info Adding target FileTarget(Name=allfile)
+2023-08-16 16:24:30.0055 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 16:24:30.0555 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 16:33:19.4415 Info Message Template Auto Format enabled
+2023-08-16 16:33:19.4415 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 16:33:19.5133 Info Adding target FileTarget(Name=allfile)
+2023-08-16 16:33:19.5238 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 16:33:19.5837 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 16:35:15.1564 Info Message Template Auto Format enabled
+2023-08-16 16:35:15.1627 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 16:35:15.2165 Info Adding target FileTarget(Name=allfile)
+2023-08-16 16:35:15.2227 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 16:35:15.2467 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 16:42:58.2138 Info Message Template Auto Format enabled
+2023-08-16 16:42:58.2138 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 16:42:58.2543 Info Adding target FileTarget(Name=allfile)
+2023-08-16 16:42:58.2760 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 16:42:58.3008 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-16 16:45:58.6211 Info Message Template Auto Format enabled
+2023-08-16 16:45:58.6285 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-16 16:45:58.6862 Info Adding target FileTarget(Name=allfile)
+2023-08-16 16:45:58.6948 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-16 16:45:58.7465 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 11:17:43.8962 Info Message Template Auto Format enabled
+2023-08-17 11:17:43.8962 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 11:17:43.9667 Info Adding target FileTarget(Name=allfile)
+2023-08-17 11:17:43.9749 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 11:17:44.0036 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:17:33.6467 Info Message Template Auto Format enabled
+2023-08-17 12:17:33.6684 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:17:33.7773 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:17:33.7916 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:17:33.8307 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:21:46.5625 Info Message Template Auto Format enabled
+2023-08-17 12:21:46.5854 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:21:46.7247 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:21:46.7386 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:21:46.7977 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:24:27.8276 Info Message Template Auto Format enabled
+2023-08-17 12:24:27.8541 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:24:27.9934 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:24:28.0160 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:24:28.0777 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:25:04.8855 Info Message Template Auto Format enabled
+2023-08-17 12:25:04.9020 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:25:04.9753 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:25:04.9753 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:25:05.0361 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:25:29.7440 Info Message Template Auto Format enabled
+2023-08-17 12:25:29.7708 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:25:29.8465 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:25:29.8489 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:25:29.9045 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:28:20.6694 Info Message Template Auto Format enabled
+2023-08-17 12:28:20.6862 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:28:20.7919 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:28:20.8442 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:28:20.8918 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:29:06.0042 Info Message Template Auto Format enabled
+2023-08-17 12:29:06.0189 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:29:06.1171 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:29:06.1478 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:29:06.2055 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:30:49.7435 Info Message Template Auto Format enabled
+2023-08-17 12:30:49.7551 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:30:49.8743 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:30:49.8979 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:30:49.9935 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:31:09.2612 Info Message Template Auto Format enabled
+2023-08-17 12:31:09.2717 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:31:09.3287 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:31:09.3332 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:31:09.4154 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:31:44.7376 Info Message Template Auto Format enabled
+2023-08-17 12:31:44.7484 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:31:44.8293 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:31:44.8396 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:31:44.8805 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 12:36:41.7566 Info Message Template Auto Format enabled
+2023-08-17 12:36:41.7730 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 12:36:41.8981 Info Adding target FileTarget(Name=allfile)
+2023-08-17 12:36:41.9126 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 12:36:41.9741 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 13:01:53.0443 Info Message Template Auto Format enabled
+2023-08-17 13:01:53.0592 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 13:01:53.1288 Info Adding target FileTarget(Name=allfile)
+2023-08-17 13:01:53.1303 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 13:01:53.1980 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 13:05:22.8488 Info Message Template Auto Format enabled
+2023-08-17 13:05:22.8650 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 13:05:22.9723 Info Adding target FileTarget(Name=allfile)
+2023-08-17 13:05:22.9749 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 13:05:23.0437 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 13:06:34.2479 Info Message Template Auto Format enabled
+2023-08-17 13:06:34.2561 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 13:06:34.3341 Info Adding target FileTarget(Name=allfile)
+2023-08-17 13:06:34.3743 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 13:06:34.4449 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 13:21:50.2938 Info Message Template Auto Format enabled
+2023-08-17 13:21:50.3069 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 13:21:50.4133 Info Adding target FileTarget(Name=allfile)
+2023-08-17 13:21:50.4330 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 13:21:50.4844 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 14:55:24.7366 Info Message Template Auto Format enabled
+2023-08-17 14:55:24.7518 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 14:55:24.8401 Info Adding target FileTarget(Name=allfile)
+2023-08-17 14:55:24.8481 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 14:55:24.8844 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 16:03:27.3202 Info Message Template Auto Format enabled
+2023-08-17 16:03:27.3349 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 16:03:27.4225 Info Adding target FileTarget(Name=allfile)
+2023-08-17 16:03:27.4425 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 16:03:27.4959 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 16:08:18.9737 Info Message Template Auto Format enabled
+2023-08-17 16:08:18.9890 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 16:08:19.0741 Info Adding target FileTarget(Name=allfile)
+2023-08-17 16:08:19.0832 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 16:08:19.1212 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 16:56:21.4162 Info Message Template Auto Format enabled
+2023-08-17 16:56:21.4162 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 16:56:21.4739 Info Adding target FileTarget(Name=allfile)
+2023-08-17 16:56:21.4739 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 16:56:21.5063 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 16:58:03.9258 Info Message Template Auto Format enabled
+2023-08-17 16:58:03.9328 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 16:58:03.9997 Info Adding target FileTarget(Name=allfile)
+2023-08-17 16:58:04.0085 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 16:58:04.0434 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 17:00:31.0674 Info Message Template Auto Format enabled
+2023-08-17 17:00:31.0674 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 17:00:31.1684 Info Adding target FileTarget(Name=allfile)
+2023-08-17 17:00:31.1684 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 17:00:31.1958 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 17:04:12.6457 Info Message Template Auto Format enabled
+2023-08-17 17:04:12.6457 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 17:04:12.8844 Info Adding target FileTarget(Name=allfile)
+2023-08-17 17:04:12.9204 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 17:04:12.9690 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 17:11:19.3989 Info Message Template Auto Format enabled
+2023-08-17 17:11:19.4568 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 17:11:19.6570 Info Adding target FileTarget(Name=allfile)
+2023-08-17 17:11:19.7100 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 17:11:19.7803 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 17:47:04.5444 Info Message Template Auto Format enabled
+2023-08-17 17:47:04.5517 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 17:47:04.6157 Info Adding target FileTarget(Name=allfile)
+2023-08-17 17:47:04.6157 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 17:47:04.6974 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 17:52:42.1882 Info Message Template Auto Format enabled
+2023-08-17 17:52:42.1969 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 17:52:42.3239 Info Adding target FileTarget(Name=allfile)
+2023-08-17 17:52:42.3724 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 17:52:42.4198 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 18:04:36.3729 Info Message Template Auto Format enabled
+2023-08-17 18:04:36.3946 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 18:04:36.5013 Info Adding target FileTarget(Name=allfile)
+2023-08-17 18:04:36.5064 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 18:04:36.5565 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 18:50:12.4679 Info Message Template Auto Format enabled
+2023-08-17 18:50:12.4760 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 18:50:12.5370 Info Adding target FileTarget(Name=allfile)
+2023-08-17 18:50:12.5570 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 18:50:12.6000 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config
+2023-08-17 19:11:51.1005 Info Message Template Auto Format enabled
+2023-08-17 19:11:51.1166 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-17 19:11:51.2290 Info Adding target FileTarget(Name=allfile)
+2023-08-17 19:11:51.2688 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-17 19:11:51.3129 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\UniteCore\Unite Microservices\External Microservices\Authentication\bin\Debug\net6.0\nlog.config

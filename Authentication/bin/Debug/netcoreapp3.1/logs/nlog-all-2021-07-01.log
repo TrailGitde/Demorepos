@@ -1,0 +1,64 @@
+2021-07-01 09:05:04.2710||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-01 09:05:08.0506|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-01 09:29:36.9799||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:31:00.8474||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:31:51.8355||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting 
+2021-07-01 09:31:52.2086||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully 
+2021-07-01 09:34:43.9602||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:34:43.9602||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-07-01 09:34:46.8928||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:34:46.9015||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-07-01 09:35:08.7434||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:35:08.7434||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-07-01 09:35:31.3169||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:35:31.3290||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-07-01 09:35:40.7154||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:35:40.7154||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-07-01 09:36:22.6318||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:37:15.7523||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-07-01 09:37:24.1160||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:37:24.2200||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:37:46.5895||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:37:46.6809||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:38:43.2363||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting 
+2021-07-01 09:38:43.2738||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully 
+2021-07-01 09:38:52.0590||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:38:52.1511||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:39:11.1428||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:40:03.5945||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:40:13.2021||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:41:45.1455||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:41:55.5568||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:42:44.4512||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:45:23.1451||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:46:46.2927||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:46:56.4545||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:47:22.8368||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Value cannot be null. (Parameter 'value') 
+2021-07-01 09:47:30.4683||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:48:59.7700||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-01 09:49:04.7904|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-01 09:49:16.7720||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:53:33.1591||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 09:55:59.3294||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 11:42:27.4465||INFO|Framework.Authentication.API.Command.IdentityClaimController|Identity Claim POST Starting 
+2021-07-01 11:42:29.2063||INFO|Framework.Authentication.API.Command.IdentityClaimController|Identity Claim POST Completed successfully 
+2021-07-01 11:43:35.5408||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 12:18:02.5690||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-01 12:18:06.9299|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-01 12:18:29.3641||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 12:21:13.6829||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-01 12:21:17.1958|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-01 12:22:09.8734||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 12:28:38.8496||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-01 12:28:42.7711|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-01 12:29:07.2979||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 12:29:36.5151||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 12:33:59.4225||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 12:42:01.2827||DEBUG|FrameWork.Authentication.Program|init main 
+2021-07-01 12:42:04.7728|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-01 14:53:09.3474||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 15:45:47.7714||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 15:47:16.6093||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 18:38:32.1322||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 18:42:30.3712||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-07-01 18:56:26.4491||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 

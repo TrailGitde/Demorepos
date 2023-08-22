@@ -1,0 +1,217 @@
+2021-08-13 08:47:29.1916||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 08:47:40.3640|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 08:49:40.7982||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-13 08:49:49.6717||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 08:49:50.1122||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 08:52:06.6213||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetByRef completed successfully |url: http://localhost/api/IdentityUserQuery/GetUserInfo|action: ByEmailId
+2021-08-13 09:17:12.9909||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 09:17:23.7372|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 09:30:44.9187||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetByRef completed successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 09:33:10.4726||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetByRef completed successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 10:02:41.2483||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 10:02:45.8608|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 10:05:50.0618||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 10:05:58.4426|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 10:08:53.9057||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetByRef completed successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 10:11:30.8842||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 10:11:35.9821|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 10:12:18.9509||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetByRef completed successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 10:12:59.3203||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 10:13:04.6221|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 10:13:33.1637||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetByRef completed successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 11:24:58.8057||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 11:25:03.2581|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 11:35:23.0606||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 11:35:23.1012|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'Task' with type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.String,System.Runtime.CompilerServices.IAsyncStateMachine]'. Path 'Data.StateMachine.<>t__builder'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 11:37:58.1597||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 11:37:58.1793|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'Task' with type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.String,FrameWork.Authentication.Infrastructure.Repositories.IdentityUserQuery+<SendEmail>d__7]'. Path 'Data.StateMachine.<>t__builder'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 11:54:54.7504||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 11:54:59.0203|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 11:57:07.8751||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 11:59:09.1427||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 12:01:53.7815||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 12:04:04.9775||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 12:04:09.1039|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 12:07:48.7416||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 12:19:55.7710||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 12:20:00.2763|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 12:49:52.8692||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 12:49:58.0528|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/swagger/v1/swagger.json|action: 
+2021-08-13 12:50:14.8130||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-13 12:50:18.7259||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 12:50:20.1301||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 12:51:11.4628||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 12:51:12.0863||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 12:51:13.4145||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 12:53:39.3579||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 12:53:44.9937|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 12:55:21.6763||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 12:55:22.3146||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 12:55:23.7071||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:13:07.8969||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 13:13:18.9314||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:13:24.8700||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:24:54.9800||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 13:24:59.9068||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:25:00.9462||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:29:08.8658||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 13:29:12.9020|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 13:30:01.0803||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 13:30:02.9261||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:30:04.4560||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:30:40.7161||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Byid Starting |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 13:31:02.0632||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Object reference not set to an instance of an object. |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 13:55:33.6918||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 13:55:36.4574||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 13:55:37.9566||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:08:49.0473||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Byid Starting |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 14:08:57.2149||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Object reference not set to an instance of an object. |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 14:09:36.1561||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:09:37.4025||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:09:37.7168||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:11:36.7689||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Byid Starting |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 14:11:42.4168||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Object reference not set to an instance of an object. |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 14:12:21.6168||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:12:22.4232||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:12:22.6881||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:13:25.1077||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Entered Mail is not Vaid |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:13:50.4878||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:13:51.4078||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:13:51.7343||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:21:41.0741||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:21:41.9642||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:21:42.2579||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:40:37.9979||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:40:38.6616||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:40:38.9262||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:41:21.4006||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Byid Starting |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 14:41:24.1587||ERROR|FrameWork.Authentication.API.Command.IdentityUserController|Object reference not set to an instance of an object. |url: http://localhost/api/IdentityUser/UPDATEBYID|action: UPDATEBYID
+2021-08-13 14:47:21.1902||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 14:47:25.8578|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 14:48:24.1018||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:48:24.8811||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:48:26.1944||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:48:29.3329||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:48:29.9903||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:48:30.2579||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:49:12.6719||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 14:49:13.1009||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 14:57:58.1418||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:57:58.8617||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:57:59.1816||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:58:20.2433||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 14:58:20.5358||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 14:59:24.9770||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 14:59:25.5894||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:59:27.1096||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 14:59:49.2259||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 14:59:49.5002||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:02:49.0728||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:02:49.6910||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:02:49.9525||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:02:58.3731||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:02:58.6266||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:04:10.2653||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:04:10.8748||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:04:11.1340||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:04:20.4861||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:04:20.7374||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:32:53.9106||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:32:56.0400||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:32:57.5672||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:33:03.0328||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:33:04.4428||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 15:48:00.0079||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Entered Mail is not Vaid |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:50:05.4403||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Entered Mail is not Vaid |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:51:41.3209||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 15:51:51.9482|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 15:52:28.1018||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Id Is not valid |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:53:09.8790||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 15:53:12.4412||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 15:53:14.1926||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 16:15:58.8037||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 16:16:06.3154|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 16:34:10.1587||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|No such host is known. |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 16:35:07.7748||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|No such host is known. |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 16:36:11.7446||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 16:36:18.1612|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-13 16:37:12.2502||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 16:37:14.2276||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 16:37:15.7695||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 16:37:28.0269||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 16:37:28.5044||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-13 16:37:36.8092||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-13 16:37:40.3897||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 16:37:40.7609||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 16:50:29.9928||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-13 16:50:30.5851||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 16:50:30.8465||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-13 17:41:01.5962||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-13 17:41:07.8429|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/swagger/v1/swagger.json|action: 
+2021-08-13 17:48:37.5972||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-13 17:48:58.3396||INFO|FrameWork.Authentication.API.Command.FacilityController|Facility POST Starting |url: http://localhost/api/Facility/POST|action: POST
+2021-08-13 17:49:01.0569||INFO|FrameWork.Authentication.API.Command.FacilityController|Facility POST Completed successfully |url: http://localhost/api/Facility/POST|action: POST

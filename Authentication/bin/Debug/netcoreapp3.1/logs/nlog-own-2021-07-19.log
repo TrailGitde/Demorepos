@@ -1,0 +1,5 @@
+2021-07-19 15:32:28.9068||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-07-19 15:32:33.8259|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-07-19 15:34:57.6862||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-07-19 15:34:59.6019||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-07-19 15:34:59.6587||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById

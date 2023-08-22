@@ -1,0 +1,164 @@
+2021-08-12 09:29:26.9264||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 09:29:32.0104|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:22:04.5794||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:22:07.7490|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:23:46.6079||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:33:05.6313||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:33:09.1089|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:33:49.5187||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:36:23.5814||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:36:27.4877|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:37:05.8266||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:40:25.8656||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:40:30.1967|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:40:43.3690||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:44:12.1128||ERROR|Framework.Configuration.API.Command.AppSettingsController|Value cannot be null. (Parameter 'source') |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:44:34.5549||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:47:06.8012||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:47:10.2960|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:47:53.4966||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:47:58.6720|10108|WARN|Microsoft.EntityFrameworkCore.Query|Collection navigations are only considered null if their parent entity is null. Use 'Any' to check whether collection navigation 'Settings.Validation' is empty. |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:50:20.5447||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:50:24.6281|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:51:01.5978||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:55:06.5473||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 11:55:11.0929|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 11:55:40.3678||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 11:57:24.2862|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'Framework.Configuration.Domain.Models.AppSettingsDBContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: Conflicts were detected for item with id '806d44ce-dabd-4c5a-b5ad-2ccb84dec426'.
+ ---> Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: Conflict (409); Substatus: 0; ActivityId: a89b1d07-9986-45ee-8ca9-cb4c580f90b4; Reason: ({
+  "Errors": [
+    "Resource with specified id or name already exists."
+  ]
+});
+   at Microsoft.Azure.Cosmos.ResponseMessage.EnsureSuccessStatusCode()
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.ProcessResponse(ResponseMessage response, IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnceAsync(DbContext _, ValueTuple`3 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnceAsync(DbContext _, ValueTuple`3 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnceAsync(DbContext _, ValueTuple`3 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnce(DbContext context, ValueTuple`3 parameters)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItem(String containerId, JToken document, IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.Save(IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.SaveChanges(IList`1 entries)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2021-08-12T06:27:23.4485457Z","TotalElapsedTimeInMs":609.3801,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|05|X64|Microsoft Windows 10.0.18363|.NET Core 3.1.17| Microsoft.EntityFrameworkCore.Cosmos/5.0.6","TotalRequestCount":1,"FailedRequestCount":1},"Context":[{"Id":"GetNonePkValue","ElapsedTimeInMs":2.4708},{"Id":"Microsoft.Azure.Cosmos.Handlers.DiagnosticsHandler","HandlerElapsedTimeInMs":273.2148},{"Id":"SystemInfo","CpuHistory":"(2021-08-12T06:25:34.8411424Z 12.500), (2021-08-12T06:25:44.8299949Z 0.000), (2021-08-12T06:26:20.9735699Z 11.960), (2021-08-12T06:26:56.5771918Z 13.949)"},{"Id":"Microsoft.Azure.Cosmos.Handlers.RetryHandler","HandlerElapsedTimeInMs":273.1958},{"Id":"Microsoft.Azure.Cosmos.Handlers.RouterHandler","HandlerElapsedTimeInMs":268.1578},{"Id":"Microsoft.Azure.Cosmos.Handlers.TransportHandler","HandlerElapsedTimeInMs":16.9782},{"Id":"AggregatedClientSideRequestStatistics","ContactedReplicas":[{"Count":1,"Uri":"rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14464/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298282984244s/"},{"Count":1,"Uri":"rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14366/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298282984245s/"},{"Count":1,"Uri":"rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14363/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298282984246s/"}],"RegionsContacted":["https://mobicarerest-westus.documents.azure.com:443/"],"FailedReplicas":[]},{"Id":"Microsoft.Azure.Documents.ServerStoreModel","ElapsedTimeInMs":267.7314},{"Id":"StoreResponseStatistics","StartTimeUtc":"2021-08-12T06:27:23.7837775Z","ResponseTimeUtc":"2021-08-12T06:27:24.0504241Z","ElapsedTimeInMs":266.6466,"ResourceType":"Document","OperationType":"Create","LocationEndpoint":"https://mobicarerest-westus.documents.azure.com:443/","ActivityId":"a89b1d07-9986-45ee-8ca9-cb4c580f90b4","StoreResult":"StorePhysicalAddress: rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14040/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298242515108p/, LSN: 59, GlobalCommittedLsn: 59, PartitionKeyRangeId: 0, IsValid: True, StatusCode: 409, SubStatusCode: 0, RequestCharge: 1.24, ItemLSN: -1, SessionToken: -1#59, UsingLocalLSN: False, TransportException: null"}]}
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.ThrowUpdateException(CosmosException exception, IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementation[TState,TResult](Func`3 operation, Func`3 verifySucceeded, TState state)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess) Microsoft.EntityFrameworkCore.DbUpdateException: Conflicts were detected for item with id '806d44ce-dabd-4c5a-b5ad-2ccb84dec426'.
+ ---> Microsoft.Azure.Cosmos.CosmosException : Response status code does not indicate success: Conflict (409); Substatus: 0; ActivityId: a89b1d07-9986-45ee-8ca9-cb4c580f90b4; Reason: ({
+  "Errors": [
+    "Resource with specified id or name already exists."
+  ]
+});
+   at Microsoft.Azure.Cosmos.ResponseMessage.EnsureSuccessStatusCode()
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.ProcessResponse(ResponseMessage response, IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnceAsync(DbContext _, ValueTuple`3 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnceAsync(DbContext _, ValueTuple`3 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnceAsync(DbContext _, ValueTuple`3 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItemOnce(DbContext context, ValueTuple`3 parameters)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosClientWrapper.CreateItem(String containerId, JToken document, IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.Save(IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.SaveChanges(IList`1 entries)
+--- Cosmos Diagnostics ---{"DiagnosticVersion":"2","Summary":{"StartUtc":"2021-08-12T06:27:23.4485457Z","TotalElapsedTimeInMs":609.3801,"UserAgent":"cosmos-netstandard-sdk/3.12.0|3.11.4|05|X64|Microsoft Windows 10.0.18363|.NET Core 3.1.17| Microsoft.EntityFrameworkCore.Cosmos/5.0.6","TotalRequestCount":1,"FailedRequestCount":1},"Context":[{"Id":"GetNonePkValue","ElapsedTimeInMs":2.4708},{"Id":"Microsoft.Azure.Cosmos.Handlers.DiagnosticsHandler","HandlerElapsedTimeInMs":273.2148},{"Id":"SystemInfo","CpuHistory":"(2021-08-12T06:25:34.8411424Z 12.500), (2021-08-12T06:25:44.8299949Z 0.000), (2021-08-12T06:26:20.9735699Z 11.960), (2021-08-12T06:26:56.5771918Z 13.949)"},{"Id":"Microsoft.Azure.Cosmos.Handlers.RetryHandler","HandlerElapsedTimeInMs":273.1958},{"Id":"Microsoft.Azure.Cosmos.Handlers.RouterHandler","HandlerElapsedTimeInMs":268.1578},{"Id":"Microsoft.Azure.Cosmos.Handlers.TransportHandler","HandlerElapsedTimeInMs":16.9782},{"Id":"AggregatedClientSideRequestStatistics","ContactedReplicas":[{"Count":1,"Uri":"rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14464/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298282984244s/"},{"Count":1,"Uri":"rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14366/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298282984245s/"},{"Count":1,"Uri":"rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14363/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298282984246s/"}],"RegionsContacted":["https://mobicarerest-westus.documents.azure.com:443/"],"FailedReplicas":[]},{"Id":"Microsoft.Azure.Documents.ServerStoreModel","ElapsedTimeInMs":267.7314},{"Id":"StoreResponseStatistics","StartTimeUtc":"2021-08-12T06:27:23.7837775Z","ResponseTimeUtc":"2021-08-12T06:27:24.0504241Z","ElapsedTimeInMs":266.6466,"ResourceType":"Document","OperationType":"Create","LocationEndpoint":"https://mobicarerest-westus.documents.azure.com:443/","ActivityId":"a89b1d07-9986-45ee-8ca9-cb4c580f90b4","StoreResult":"StorePhysicalAddress: rntbd://cdb-ms-prod-westus1-fd76.documents.azure.com:14040/apps/0ebf3ce5-32d8-4ee5-ae9e-d4a8cec39d31/services/b109765a-971b-4925-8c76-ecc25df22901/partitions/a052d4de-70ef-40fd-9973-e512f9af83dd/replicas/132731298242515108p/, LSN: 59, GlobalCommittedLsn: 59, PartitionKeyRangeId: 0, IsValid: True, StatusCode: 409, SubStatusCode: 0, RequestCharge: 1.24, ItemLSN: -1, SessionToken: -1#59, UsingLocalLSN: False, TransportException: null"}]}
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.ThrowUpdateException(CosmosException exception, IUpdateEntry entry)
+   at Microsoft.EntityFrameworkCore.Cosmos.Storage.Internal.CosmosDatabaseWrapper.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementation[TState,TResult](Func`3 operation, Func`3 verifySucceeded, TState state)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)|url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:00:13.4185||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 12:00:17.1967|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 12:00:54.5321||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:02:57.1079||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 12:03:01.3883|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 12:03:34.0927||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:05:21.0775||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 12:05:25.5484|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 12:06:07.8373||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:09:16.1992||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:13:11.8959||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 12:13:15.3518|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 12:13:41.4584||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:22:32.2695||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 12:22:36.7395|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 12:23:12.5263||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 12:23:16.3659|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 12:45:06.8992||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:45:22.4952||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 12:46:05.6687||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:01:18.3997||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:01:21.0085||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:01:21.0189||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:02:24.2371||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:11:04.1119||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:12:07.8593||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 13:12:31.4497||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:33:11.4816||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 14:33:15.9608|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 14:34:34.0573||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:34:44.8119||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:35:22.0545||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:35:49.1128||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:37:29.9001||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:37:33.9563||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:37:59.2621||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:38:00.1060||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:39:15.1929||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:39:16.1238||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:39:30.9550||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:39:31.7588||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:41:26.5991||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:41:27.4957||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:42:45.2930||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:42:47.4224||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:43:00.2463||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:43:01.1041||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:43:12.2717||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:43:13.1208||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:56:40.3362||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 14:56:44.5096|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 14:58:02.5247||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:58:29.5184||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 14:59:08.5922||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 14:59:12.5615|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 14:59:30.9016||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:00:11.5040||ERROR|Framework.Configuration.API.Command.AppSettingsController|One or more errors occurred. (Unable to track an entity of type 'Settings' because its primary key property 'id' is null.) |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:01:43.2887||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 15:01:45.7813|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-12 15:45:27.8845||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:45:35.6639||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:45:47.9447||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:45:49.9933||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:46:14.2460||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:46:16.1208||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:46:56.7310||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:47:00.1600||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 15:47:49.3539||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings Update Starting |url: http://localhost/api/FieldSettings/UPDATE|action: UPDATE
+2021-08-12 15:48:12.8592||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings update Completed successfully |url: http://localhost/api/FieldSettings/UPDATE|action: UPDATE
+2021-08-12 15:48:53.4308||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings Update Starting |url: http://localhost/api/FieldSettings/UPDATE|action: UPDATE
+2021-08-12 15:48:55.3449||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings update Completed successfully |url: http://localhost/api/FieldSettings/UPDATE|action: UPDATE
+2021-08-12 16:41:23.8181||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:42:04.8272||DEBUG|Configuration.Program|init main |url: |action: 
+2021-08-12 16:42:09.7591|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/AppSettings/UPDATE|action: 
+2021-08-12 16:42:19.1916||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:42:23.2857||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:42:23.8010||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:42:25.1017||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:02.2084||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:03.8529||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:32.2663||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:32.8308||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:54.1138||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:54.9435||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:48:58.3084||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE
+2021-08-12 16:49:00.2942||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully |url: http://localhost/api/AppSettings/UPDATE|action: UPDATE

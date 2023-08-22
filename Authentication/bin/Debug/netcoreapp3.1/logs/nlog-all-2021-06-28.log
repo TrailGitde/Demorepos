@@ -1,0 +1,6 @@
+2021-06-28 09:53:52.0015||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-28 09:53:53.5888|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-28 09:54:35.0190||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-28 09:54:39.8016|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-28 09:55:04.5615||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-06-28 09:55:05.6486||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully 

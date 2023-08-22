@@ -1,0 +1,63 @@
+2021-06-21 09:30:08.2878||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 09:30:13.4536|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 09:31:20.9847||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-21 09:31:24.1719||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-21 09:43:59.9056||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 09:44:04.0770|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 10:39:10.4361||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 10:39:12.1165|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 10:47:26.9399||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 10:47:29.1806|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 11:15:51.8382||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 11:15:54.0048|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 11:41:18.2520||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 11:41:23.1040|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:00:32.1226||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:00:34.5390|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:03:50.0900||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:03:51.9326|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:06:36.6782||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:06:38.9191|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:07:37.6866||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:07:39.2259|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:08:14.6898||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:08:20.5056|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:13:16.7082||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:13:19.9250|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:17:11.2811||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:17:12.6936|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:17:46.0569||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:17:50.4728|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:19:23.1943||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:19:25.7814|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:24:15.1347||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:24:16.8577|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:34:12.3172||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:34:14.3336|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:34:39.2133||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:34:42.8828|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:36:26.6268||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:36:29.1034|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 12:57:23.2514||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 12:57:26.2425|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 13:00:53.5983||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:00:55.5031|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 13:01:19.4983||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:01:22.0511|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 13:09:03.0033||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:09:06.0798|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 13:10:39.8358||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:10:42.7551|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 13:16:56.7678||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:17:17.4049||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:17:20.7618|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 13:33:25.3903||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 13:33:27.4771|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 14:38:03.3330||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 14:38:08.5798|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 14:50:59.9310||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 14:51:02.3004|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-06-21 15:21:25.3612||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-21 15:21:26.1879||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-06-21 16:37:28.1152||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-06-21 16:37:30.9887|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/swagger/v1/swagger.json|action: 

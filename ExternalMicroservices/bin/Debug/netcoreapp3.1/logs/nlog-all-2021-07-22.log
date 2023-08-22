@@ -1,0 +1,176 @@
+2021-07-22 09:48:34.9173||DEBUG|Configuration.Program|init main 
+2021-07-22 09:48:38.7834|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-22 12:05:35.1037||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:05:35.2707||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:05:45.5545||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:05:45.5623||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:05:54.4712||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:05:54.4712||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:03.5175||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:03.5175||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:10.9462||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:10.9555||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:19.5273||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:19.5347||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:29.4037||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:29.4096||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:39.7429||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:39.7576||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:46.7055||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:46.7055||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:06:53.7598||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:06:53.7666||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:07:29.9576||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:07:29.9689||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:03.9111||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:03.9111||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:13.7143||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:13.7206||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:23.5406||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:23.5406||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:31.3144||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:31.3144||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:40.3309||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:40.3309||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:49.0143||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:49.0191||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:08:57.3740||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:08:57.3804||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:04.7904||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:04.7986||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:13.2608||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:13.2608||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:20.4596||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:20.4690||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:28.3045||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:28.3045||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:36.4500||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:36.4574||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:43.7853||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:43.7853||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:51.8781||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:51.8781||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:09:59.3653||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:09:59.3653||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:10:07.4807||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Starting 
+2021-07-22 12:10:07.4854||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings POST Completed successfully 
+2021-07-22 12:10:26.1896||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:10:26.1896||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:10:34.9940||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:10:34.9940||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:10:43.0939||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:10:43.0939||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:10:51.1857||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:10:51.1938||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:10:59.7328||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:10:59.7372||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:11:11.0238||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:11:11.0356||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:11:19.6618||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:11:19.6618||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:11:29.6735||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:11:29.6735||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:11:35.9433||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:11:35.9433||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:11:42.9621||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:11:42.9621||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:11:50.6943||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:11:50.6943||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:12:01.7449||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:12:01.7449||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:12:15.1320||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:12:15.1320||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:12:22.4962||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Starting 
+2021-07-22 12:12:22.5001||INFO|Framework.Configuration.API.Command.FieldSettingsController|Settings POST Completed successfully 
+2021-07-22 12:12:41.6273||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:12:41.6273||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:12:50.9939||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:12:50.9939||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:00.6924||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:00.6924||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:14.0967||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:14.0967||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:24.4214||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:24.4254||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:31.7289||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:31.7409||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:43.5940||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:43.5940||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:50.5256||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:50.5311||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:13:57.8637||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:13:57.8637||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:05.4487||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:05.4487||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:15.2977||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:15.2977||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:22.1576||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:22.1576||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:29.2263||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:29.2263||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:35.7383||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:35.7383||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:44.5976||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:44.5976||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:14:54.1104||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:14:54.1104||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:00.6340||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:00.6340||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:07.2127||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:07.2127||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:15.8593||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:15.8593||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:23.3518||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:23.3518||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:30.9071||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:30.9071||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:37.8379||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:37.8379||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:44.6700||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:44.6739||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:15:56.4455||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:15:56.4455||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:04.0988||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:04.0988||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:11.6244||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:11.6302||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:18.3128||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:18.3128||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:25.9086||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:25.9086||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:33.2716||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:33.2841||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:40.8991||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:40.8991||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:47.7028||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:47.7068||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:16:54.7873||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:16:54.7873||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:03.0975||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:03.0975||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:09.6818||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:09.6818||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:17.7510||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:17.7510||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:26.0809||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:26.0809||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:35.0519||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:35.0519||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:41.6209||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:41.6331||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:48.6127||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:48.6261||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:17:55.1302||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:17:55.1302||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:18:03.1287||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:18:03.1287||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:18:10.6910||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:18:10.7036||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:18:18.2184||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:18:18.2308||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 12:18:26.1085||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-22 12:18:26.1134||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-22 16:23:52.0908||DEBUG|Configuration.Program|init main 
+2021-07-22 16:23:56.7962|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-22 16:31:44.4183||DEBUG|Configuration.Program|init main 
+2021-07-22 16:31:48.5121|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 

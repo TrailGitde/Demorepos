@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c353a633-7460-4140-afe0-5707146b1782",
+    "Key": "Mobicare.Appointment.Tests.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Tests control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "8e2c0ebe-5c67-48ba-9fac-0f4a20a914e6",
+    "Key": "Mobicare.Appointment.Location.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Location control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "46023064-25b0-44c1-995f-70669f8ba77a",
+    "Key": "Mobicare.UserProfile.MobileNo.IsMandatory",
+    "Remarks": "To enable or disable mandatory for MobileNo control in UserProfile screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "0174044f-eae9-47f2-96ab-e36fab9f2097",
+    "Key": "Mobicare.UserProfile.Name.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Name control in UserProfile screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "868f4282-116a-4515-8e04-8bc356103a52",
+    "Key": "Mobicare.Appointment.Files.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Files control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "f969fbc8-4bf2-468e-b37e-f2adea79750e",
+    "Key": "Mobicare.Appointment.MobileNo.IsMandatory",
+    "Remarks": "To enable or disable mandatory for MobileNo control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "ebade444-da2f-458c-b18c-d0dbf6bab62f",
+    "Key": "Mobicare.Appointment.ReferredBy.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Referred By control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Control": "Boolean",
+    "Validation": null
+  },
+  {
+    "id": "353f5e27-82bb-4555-9158-5a65a0adf4f9",
+    "Key": "Mobicare.UserProfile.EmailId.IsMandatory",
+    "Remarks": "To enable or disable mandatory for EmailId control in UserProfile screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "1e072005-ad3b-4cd2-b934-c6172ff32d16",
+    "Key": "Mobicare.Appointment.Remarks.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Remarks control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "8eb3750a-cf84-4831-9fe7-34c3fa166325",
+    "Key": "Mobicare.Appointment.Address.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Address control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "26295310-b38b-4129-981f-968edad38b87",
+    "Key": "Mobicare.Appointment.Gender.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Gender control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "False",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "e34c75a3-899f-4fb2-a283-c0ff7e037ef6",
+    "Key": "Mobicare.Appointment.Name.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Name control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "6c7fcbff-88cb-4b81-9ff6-127f56246134",
+    "Key": "Mobicare.Appointment.EndTime.IsMandatory",
+    "Remarks": "To enable or disable mandatory for End time control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  },
+  {
+    "id": "ef70676f-2cd5-4f9e-8698-9d9efc46a0ff",
+    "Key": "Mobicare.Appointment.StartTime.IsMandatory",
+    "Remarks": "To enable or disable mandatory for Start time control in Appointment screen",
+    "Type": "FieldSettings",
+    "Value": "True",
+    "Validation": null,
+    "Control": "Boolean"
+  }
+]

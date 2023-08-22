@@ -1,0 +1,5 @@
+2021-08-30 12:12:11.1686||DEBUG|Configuration.Program|init main 
+2021-08-30 12:12:19.4297|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-30 12:20:58.2604||DEBUG|Configuration.Program|init main 
+2021-08-30 12:21:03.8653|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-30 12:22:39.1850||ERROR|Framework.Configuration.API.Queries.FieldSettingsQueryController|The entity type 'Validation' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943. 

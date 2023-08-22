@@ -1,0 +1,12 @@
+2021-09-13 11:42:30.7405||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-09-13 11:42:44.2998|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-09-13 11:50:08.5736||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-09-13 11:50:09.3313||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-09-13 11:51:23.7786||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-09-13 11:53:45.2642||INFO|Framework.Authentication.API.Command.IdentityClaimController|Identity Claim POST Starting |url: http://localhost/api/IdentityClaim/POST|action: POST
+2021-09-13 11:53:45.5334||INFO|Framework.Authentication.API.Command.IdentityClaimController|Identity Claim POST Completed successfully |url: http://localhost/api/IdentityClaim/POST|action: POST
+2021-09-13 11:55:46.6403||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-09-13 11:56:00.1330||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-09-13 11:56:00.1820||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-09-13 11:59:12.2178||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Starting |url: http://localhost/api/IdentityUser/POST|action: POST
+2021-09-13 11:59:12.2277||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User POST Completed successfully |url: http://localhost/api/IdentityUser/POST|action: POST

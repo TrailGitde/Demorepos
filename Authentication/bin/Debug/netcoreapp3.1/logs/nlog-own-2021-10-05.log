@@ -1,0 +1,4 @@
+2021-10-05 19:45:52.9424||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-10-05 19:45:58.1676|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-10-05 19:47:14.9284||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-10-05 19:47:21.5630|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 

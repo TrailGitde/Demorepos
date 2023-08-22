@@ -1,0 +1,97 @@
+2023-08-17 11:54:38.0056||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 11:54:40.5056|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:17:33.8809||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:17:35.9970|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:17:36.9888|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Framework.Authentication.API.Queries.AuthenticationController.GenerateToken (Authentication). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-17 12:17:45.3178|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Framework.Authentication.API.Queries.AuthenticationController.GenerateToken (Authentication). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-17 12:21:46.8851||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:21:48.3756|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:21:49.0277|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Framework.Authentication.API.Queries.AuthenticationController.GenerateToken (Authentication). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-17 12:24:28.2128||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:24:30.4084|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:25:05.0837||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:25:07.0781|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:25:07.8402|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Framework.Authentication.API.Queries.AuthenticationController.GenerateToken (Authentication). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-17 12:25:29.9673||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:25:32.1752|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:28:20.9452||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:28:22.4501|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:28:46.9849||INFO|Framework.Authentication.API.Queries.AuthenticationController|Unable to cast object of type 'System.Int64' to type 'System.Int32'. 
+2023-08-17 12:29:06.2921||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:29:07.6924|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:30:50.0479||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:31:09.4739||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:31:11.4477|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:31:44.9267||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:31:46.5839|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 12:36:42.0272||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 12:36:43.8661|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 13:01:53.2772||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 13:01:54.9171|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 13:05:23.0900||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 13:05:24.7223|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 13:06:34.4914||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 13:06:35.9793|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 13:21:50.5308||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 13:21:52.5364|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 14:55:24.9315||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 14:55:26.0041|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 16:03:27.5399||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 16:03:28.7340|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 16:08:19.1693||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 16:08:20.3771|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 16:56:21.5416||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 16:56:22.4553|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 16:58:04.1068||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 16:58:05.0526|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 17:00:31.2251||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 17:00:32.1060|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 17:04:13.0421||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 17:04:14.4199|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 17:06:28.9462||INFO|Framework.Authentication.API.Queries.AuthenticationController|String or binary data would be truncated.
+The statement has been terminated. 
+2023-08-17 17:10:02.2161||INFO|Framework.Authentication.API.Queries.AuthenticationController|String or binary data would be truncated.
+The statement has been terminated. 
+2023-08-17 17:11:19.8485||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 17:11:21.1968|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 17:47:04.7612||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 17:47:06.1619|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 17:50:30.1927||INFO|Framework.Authentication.API.Queries.AuthenticationController|A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) 
+2023-08-17 17:52:42.4831||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 17:52:43.9076|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 18:04:36.6029||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 18:04:37.7647|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 18:50:12.6369||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 18:50:13.8839|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2023-08-17 19:08:44.6900||INFO|Framework.Authentication.API.Queries.AuthenticationController|Invalid object name 'dbo.TOK_AUTH_TOKEN'. 
+2023-08-17 19:09:26.8509||INFO|Framework.Authentication.API.Queries.AuthenticationController|The multi-part identifier "kn.TOK_IS_ACTIVE" could not be bound. 
+2023-08-17 19:11:51.3903||DEBUG|FrameWork.Authentication.Program|init main 
+2023-08-17 19:11:52.5624|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 

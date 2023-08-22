@@ -1,0 +1,524 @@
+[
+	{
+		"id": "fbc5a469-fa5e-4d8f-b707-336edf1077b1",
+		"Key": "Appointment.Status.Color.ACF",
+		"Remarks": "Background color for ACF",
+		"Type": "SysSettings",
+		"Value": "#F4D7D9",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "3c91c6d0-27e5-4ae8-8734-3c878d574952",
+		"Key": "Appointment.Status.Color.YTC",
+		"Remarks": "Background color for YTC",
+		"Type": "SysSettings",
+		"Value": "#F4D7D9",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "6330473e-1b7c-4781-9777-62e64d69be41",
+		"Key": "Appointment.Status.Color.CNR",
+		"Remarks": "Background color for CNR",
+		"Type": "SysSettings",
+		"Value": "#F4D7D9",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "0e8d795c-4a75-4294-a857-a1b58fa7d1e1",
+		"Key": "Appointment.Status.Color.AAC",
+		"Remarks": "Background color for AAC",
+		"Type": "SysSettings",
+		"Value": "#F4D7D9",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "a0934f7e-4ebf-4cc8-b359-5453a063b613",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Home visit completed",
+		"Type": "SysSettings",
+		"Value": "HVC",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "53750d51-9074-4559-b982-0aa8fc10f12c",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Technician reached location",
+		"Type": "SysSettings",
+		"Value": "TRL",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "498ba4de-6d62-453a-b038-67fcc17c0129",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for No show",
+		"Type": "SysSettings",
+		"Value": "NSW",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "f7868cc3-c974-4bc3-8f4d-9dac40107f93",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Appointment confirmed",
+		"Type": "SysSettings",
+		"Value": "ACF",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "3a4e8597-5fff-4a1c-99cf-d90ead8731ca",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Yet to confirm",
+		"Type": "SysSettings",
+		"Value": "YTC",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "97361e88-19a6-43bb-a4ca-8bec66ed35a5",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Call not reachable",
+		"Type": "SysSettings",
+		"Value": "CNR",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "d8d5231b-282a-44f2-9a61-b463898fc9b5",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Appointment cancelled",
+		"Type": "SysSettings",
+		"Value": "CVI",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "05c8b2c6-c258-4a80-9906-810a63fd3100",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Appointment awaiting confirmation",
+		"Type": "SysSettings",
+		"Value": "AAC",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "sdc8b2c6-c258-4a80-9906-810a63fd3100",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for On The Way",
+		"Type": "SysSettings",
+		"Value": "OTW",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "ghc8b2c6-c258-4a80-9906-810a63fr3100",
+		"Key": "Appointment.Status",
+		"Remarks": "Internal value for Home Visit WithoutInvoice",
+		"Type": "SysSettings",
+		"Value": "HVI",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "24eec0fb-b4b0-4fea-bc85-d0a8f8b15113",
+		"Key": "Unite.Test.GetEndpoint",
+		"Remarks": "Unite Endpoint to get billable items for the given parameters",
+		"Type": "SysSettings",
+		"Value": "api/Sync/GetTests?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "3182bf26-e257-40ae-856f-ce36b06493cd",
+		"Key": "Unite.Appointment.GetByIdEndpoint",
+		"Remarks": "Unite Endpoint to get Appointment data for the given id",
+		"Type": "SysSettings",
+		"Value": "api/Sync/GetAppointmentById?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "8ab1b5aa-29c2-467b-a5cf-a4ca43814fc4",
+		"Key": "Mobicare.Appointment.GetByIdEndpoint",
+		"Remarks": "Mobicare Endpoint to get Appointment data for the given parameters",
+		"Type": "SysSettings",
+		"Value": "Gateway/GetById",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "9f8ddc8d-46bf-4b32-abfd-c2a5b5335ad2",
+		"Key": "Mobicare.Test.PostEndpoint",
+		"Remarks": "Mobicare Endpoint to save Billable items data",
+		"Type": "SysSettings",
+		"Value": "Gateway/SaveTest",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "04372831-264b-41db-9a3c-4cdb82b0cf98",
+		"Key": "Mobicare.Appointment.PostEndpoint",
+		"Remarks": "Mobicare Endpoint to save Appointment data",
+		"Type": "SysSettings",
+		"Value": "Gateway/SyncAppointment",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "048ebba5-357b-4949-96cd-8002ab8e6f22",
+		"Key": "Mobicare.User.PostEndpoint",
+		"Remarks": "Mobicare Endpoint to save User data",
+		"Type": "SysSettings",
+		"Value": "gateway/SyncUser",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "e85f4b72-c62e-4523-89b3-c1f6f9573af8",
+		"Key": "Mobicare.Authentication.Endpoint",
+		"Remarks": "Mobicare Endpoint to get token",
+		"Type": "SysSettings",
+		"Value": "Gateway/Authorize",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "fb430620-3ed2-4d48-9e97-e2b6572c683a",
+		"Key": "Unite.Appointment.GetEndpoint",
+		"Remarks": "Unite Endpoint to get Appointment data for the given parameters",
+		"Type": "SysSettings",
+		"Value": "api/Sync/GetAppointmentByDate?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "ebc1c367-eb14-41ff-bf1a-1abb7b1d9ea3",
+		"Key": "Unite.User.GetByIdEndpoint",
+		"Remarks": "Unite Endpoint to get User data for the given id",
+		"Type": "SysSettings",
+		"Value": "api/Sync/GetUserById?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "af82ac13-e542-4f0e-944b-05617490768b",
+		"Key": "Unite.User.GetEndpoint",
+		"Remarks": "Unite Endpoint to get User data for the given parameters",
+		"Type": "SysSettings",
+		"Value": "api/Sync/GetUserByDate?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "58e01100-72bb-4bb7-a336-0c31e2ffb37a",
+		"Key": "Appointment.Status.Color.HVC",
+		"Remarks": "Background color for HVC",
+		"Type": "SysSettings",
+		"Value": "#D1EBDE",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "f0c73458-6bdc-404e-ad28-39ac383f7122",
+		"Key": "Appointment.Status.Color.TRL",
+		"Remarks": "Background color for TRL",
+		"Type": "SysSettings",
+		"Value": "#E9EEFF",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "db682173-dfbb-4d70-8030-9c69061685ba",
+		"Key": "Appointment.Status.Color.NSW",
+		"Remarks": "Background color for NSW",
+		"Type": "SysSettings",
+		"Value": "#ff7db0",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "cb63121c-4c43-4b98-9f3e-a5a75990531d",
+		"Key": "Appointment.Status.Color.CVI",
+		"Remarks": "Background color for CVI",
+		"Type": "SysSettings",
+		"Value": "#ED6161",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "52368c38-acd7-4b69-a43a-03200b464f50",
+		"Key": "Appointment.Status.Color.APH",
+		"Remarks": "Background color for APH",
+		"Type": "SysSettings",
+		"Value": "#e0eafc",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "sf368c38-acd7-4b69-a43a-03200b464f59",
+		"Key": "Appointment.Status.Color.OTW",
+		"Remarks": "Background color for OTW",
+		"Type": "SysSettings",
+		"Value": "#FFF8D7",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "sg682173-dfbb-4d70-8030-9c69069685ba",
+		"Key": "Appointment.Status.Color.HVI",
+		"Remarks": "Background color for HVI",
+		"Type": "SysSettings",
+		"Value": "#CBFCFF",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "99c9e148-f0b5-4a66-815c-246102e75150",
+		"Key": "Appointment.Status.DisplayText.HVC",
+		"Remarks": "Display text for HVC",
+		"Type": "SysSettings",
+		"Value": "Home Visit Completed",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "fbeacfe4-b5a3-4cbd-9c90-c137b2f0d268",
+		"Key": "Unite.PriceCard.GetEndpoint",
+		"Remarks": "Unite Endpoint to get Test data for the given userId, facilityId, searchData",
+		"Type": "SysSettings",
+		"Value": "api/CommonClass/ItemsList?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "0ec1fb36-1a14-4397-ae0c-e4ecb3a99f9c",
+		"Key": "Mobicare.Invoice.GetByIdEndpoint",
+		"Remarks": "Mobicare Endpoint to get Invoice data for the given parameters",
+		"Type": "SysSettings",
+		"Value": "Gateway/GetInvoiceById",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "9ee03fa2-a40f-4208-8781-6a11189728d2",
+		"Key": "Mobicare.Visit.GetByIdEndpoint",
+		"Remarks": "Mobicare Endpoint to get Visit data for the given parameters",
+		"Type": "SysSettings",
+		"Value": "Gateway/GetVisitById",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "ee31f7fc-d617-453f-89c2-d4e263a67784",
+		"Key": "Unite.Invoice.PostEndpoint",
+		"Remarks": "Unite Endpoint to save Invoice data",
+		"Type": "SysSettings",
+		"Value": "api/Sync/SaveInvoiceSync",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "4e3f0a48-bc22-48a6-8fba-def2f840fab1",
+		"Key": "Unite.Visit.PostEndpoint",
+		"Remarks": "Unite Endpoint to save Visit data",
+		"Type": "SysSettings",
+		"Value": "api/Sync/SaveVisitSync",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "0c089cc0-cfac-41b7-9770-a62462ea9edc",
+		"Key": "Unite.Appointment.PostEndpoint",
+		"Remarks": "Unite Endpoint to save Appointment data",
+		"Type": "SysSettings",
+		"Value": "api/Sync/SaveAppointmentSync",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "681ce233-3148-4fb1-ab6b-7429946c7c45",
+		"Key": "Appointment.Status.DisplayText.TRL",
+		"Remarks": "Display text for TRL",
+		"Type": "SysSettings",
+		"Value": "Technician Reached Location",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "0cfe8fbf-5157-493a-aea3-666ef4cb7f5f",
+		"Key": "Appointment.Status.DisplayText.NSW",
+		"Remarks": "Display text for NSW",
+		"Type": "SysSettings",
+		"Value": "No Show",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "9b20b7df-2083-4aed-a64f-c2b6646419d8",
+		"Key": "Appointment.Status.DisplayText.CVI",
+		"Remarks": "Display text for CVI",
+		"Type": "SysSettings",
+		"Value": "Appointment Cancelled",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "65f84a7e-7abe-43c4-b593-fce56922e882",
+		"Key": "Appointment.Status.DisplayText.ACF",
+		"Remarks": "Display text for ACF",
+		"Type": "SysSettings",
+		"Value": "Appointment Confirmed",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "df62b9bf-48e3-475b-b547-98aef1fcc665",
+		"Key": "Appointment.Status.DisplayText.YTC",
+		"Remarks": "Display text for YTC",
+		"Type": "SysSettings",
+		"Value": "Yet To Confirm",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "b40d81bf-e130-4b9d-a501-ddb8414e0928",
+		"Key": "Appointment.Status.DisplayText.CNR",
+		"Remarks": "Display text for CNR",
+		"Type": "SysSettings",
+		"Value": "Call Not Reachable",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "17abc1de-65e8-4304-843b-ad49ae801b24",
+		"Key": "Appointment.Status.DisplayText.AAC",
+		"Remarks": "Display text for AAC",
+		"Type": "SysSettings",
+		"Value": "Appointment Awaiting Confirmation",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "c41c5a1a-591c-4c24-878f-68253683f6fd",
+		"Key": "Mobicare.Invoice.GetByIdEndpoint",
+		"Remarks": "Mobicare Endpoint to get Invoice data for the given parameters",
+		"Type": "SysSetting",
+		"Value": "Gateway/GetInvoiceById",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "9b977fde-364b-4a86-9f0d-cca89b3585a7",
+		"Key": "Mobicare.Invoice.GetByIdEndpoint",
+		"Remarks": "Mobicare Endpoint to get Invoice data for the given parameters",
+		"Type": "SysSetting",
+		"Value": "true",
+		"Validation": null,
+		"Control": "Boolean"
+	},
+	{
+		"id": "ac6a1933-835c-4a82-8b8c-bd5fc62f610a",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Payment.Modes",
+		"Remarks": "POS payment mode",
+		"Type": "SysSettings",
+		"Value": "POS",
+		"Validation": null
+	},
+	{
+		"id": "bbe50af7-e678-4394-a405-25ae9885bb99",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Payment.Modes",
+		"Remarks": "Cash payment mode",
+		"Type": "SysSettings",
+		"Value": "Cash",
+		"Validation": null
+	},
+	{
+		"id": "bbe50af7-e678-4394-a405-25ae9885bs11",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Payment.Modes",
+		"Remarks": "Bank Transfer payment mode",
+		"Type": "SysSettings",
+		"Value": "Bank_Transfer",
+		"Validation": null
+	},
+	{
+		"id": "bbe50af7-e678-4394-a405-25ae9885bs54",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Payment.Modes",
+		"Remarks": "Overdue payment mode",
+		"Type": "SysSettings",
+		"Value": "Overdue",
+		"Validation": null
+	},
+	{
+		"id": "zbe50af7-e678-4394-a405-25ae9885bs65",
+		"Control": "Textbox",
+		"Key": "Mobicare.Invoice.Payment.Modes",
+		"Remarks": "PaymentLink payment mode",
+		"Type": "SysSettings",
+		"Value": "Payment_Gateway",
+		"Validation": null
+	},
+	{
+		"id": "91A1C74C-45A5-4758-8770-D75389ED3F76",
+		"Control": "Textbox",
+		"Key": "Unite.Facility.PostEndpoint",
+		"Remarks": "Unite Endpoint to save Facility data",
+		"Type": "SysSettings",
+		"Value": "api/Sync/SaveFacilitySync",
+		"Validation": null
+	},
+	{
+		"id": "8B8BC1B2-6014-4488-9D14-09F2EFFFED47",
+		"Control": "Textbox",
+		"Key": "Unite.Facility.GetByIdEndpoint",
+		"Remarks": "Unite Endpoint to get Facility data for the given parameters",
+		"Type": "SysSettings",
+		"Value": "api/Sync/GetFacilityById?",
+		"Validation": null
+	},
+	{
+		"id": "97B06F88-4C7B-42CF-99F6-F2B1BB54744D",
+		"Control": "Textbox",
+		"Key": "Mobicare.Facility.PostEndpoint",
+		"Remarks": "Mobicare Endpoint to save Facility data",
+		"Type": "SysSettings",
+		"Value": "Gateway/SyncFacility",
+		"Validation": null
+	},
+	{
+		"id": "fbeacfe4-b5a3-4cbd-9c90-c137b2f0d230",
+		"Key": "Unite.ListValuesMaster.GetEndpoint",
+		"Remarks": "Unite Endpoint to get List Value Master data for the given clinicId",
+		"Type": "SysSettings",
+		"Value": "api/patient/PatientListValueMaster?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "gbeacfe4-b5a3-4cbd-9c90-c137b2f0d230",
+		"Key": "Unite.Area.GetEndpoint",
+		"Remarks": "Unite Endpoint to get Area data for the given clinicId",
+		"Type": "SysSettings",
+		"Value": "api/visit/GetAppointmentBookingAddress?",
+		"Validation": null,
+		"Control": "Textbox"
+	},
+	{
+		"id": "rbeacfe4-b5a3-4cbd-9c90-c137b2f0d236",
+		"Type": "SysSettings",
+		"Key": "Unite.PaymentGateway.GetEndpoint",
+		"Remarks": "Unite Endpoint to get PaymentGateway data for the given clinicId",
+		"Value": "api/PaymentLink/CreatePaymentLinkForInvoice?",
+		"Control": "Textbox",
+		"Validation": null
+	}
+]

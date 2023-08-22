@@ -1,0 +1,26 @@
+2021-08-19 10:49:48.2372||DEBUG|Configuration.Program|init main 
+2021-08-19 10:49:49.9513|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 11:44:45.2284||DEBUG|Configuration.Program|init main 
+2021-08-19 11:44:49.9265|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 13:46:59.6665||DEBUG|Configuration.Program|init main 
+2021-08-19 13:47:04.1725|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 13:48:52.2679||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:48:57.0134||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 13:50:45.0325||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:50:45.5622||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 13:52:34.4478||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:52:36.1864||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 13:54:18.1324||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:54:19.8884||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 13:55:28.8633||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:55:29.3959||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 13:57:51.9903||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:57:52.5153||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 13:59:19.5591||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings Update Starting 
+2021-08-19 13:59:20.5045||INFO|Framework.Configuration.API.Command.AppSettingsController|Settings update Completed successfully 
+2021-08-19 15:33:24.7813||DEBUG|Configuration.Program|init main 
+2021-08-19 15:33:30.9105|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 18:22:18.0350||DEBUG|Configuration.Program|init main 
+2021-08-19 18:22:25.8864|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-19 20:36:45.2377||DEBUG|Configuration.Program|init main 
+2021-08-19 20:36:52.2524|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 

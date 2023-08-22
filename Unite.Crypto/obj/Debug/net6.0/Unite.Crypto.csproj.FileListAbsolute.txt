@@ -1,0 +1,15 @@
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\bin\Debug\net6.0\Unite.Crypto.exe
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\bin\Debug\net6.0\Unite.Crypto.deps.json
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\bin\Debug\net6.0\Unite.Crypto.runtimeconfig.json
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\bin\Debug\net6.0\Unite.Crypto.dll
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\bin\Debug\net6.0\Unite.Crypto.pdb
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.csproj.AssemblyReference.cache
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.AssemblyInfoInputs.cache
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.AssemblyInfo.cs
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.csproj.CoreCompileInputs.cache
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.dll
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\refint\Unite.Crypto.dll
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.pdb
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\Unite.Crypto.genruntimeconfig.cache
+D:\UniteCore\Unite Microservices\External Microservices\Unite.Crypto\obj\Debug\net6.0\ref\Unite.Crypto.dll

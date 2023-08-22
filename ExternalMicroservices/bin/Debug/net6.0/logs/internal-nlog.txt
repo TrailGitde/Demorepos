@@ -1,0 +1,20 @@
+2023-08-11 13:05:30.4038 Info Message Template Auto Format enabled
+2023-08-11 13:05:30.4038 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-11 13:05:30.5172 Info Adding target FileTarget(Name=allfile)
+2023-08-11 13:05:30.5288 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-11 13:05:30.5583 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\TFS\Unite Microservices\External Microservices\ExternalMicroservices\bin\Debug\net6.0\nlog.config
+2023-08-11 13:09:06.8393 Info Shutdown() called. Logger closing...
+2023-08-11 13:09:06.8393 Info Closing old configuration.
+2023-08-11 13:09:06.8584 Info Logger has been closed down.
+2023-08-11 13:09:06.8584 Info AppDomain Shutting down. Logger closing...
+2023-08-11 13:09:06.8584 Info Logger has been shut down.
+2023-08-11 13:12:46.7546 Info Message Template Auto Format enabled
+2023-08-11 13:12:46.7790 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-11 13:12:47.0283 Info Adding target FileTarget(Name=allfile)
+2023-08-11 13:12:47.0886 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-11 13:12:47.1463 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\TFS\Unite Microservices\External Microservices\ExternalMicroservices\bin\Debug\net6.0\nlog.config
+2023-08-11 13:25:10.2122 Info Message Template Auto Format enabled
+2023-08-11 13:25:10.2508 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-11 13:25:10.3396 Info Adding target FileTarget(Name=allfile)
+2023-08-11 13:25:10.3550 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-11 13:25:10.4001 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\TFS\Unite Microservices\External Microservices\ExternalMicroservices\bin\Debug\net6.0\nlog.config

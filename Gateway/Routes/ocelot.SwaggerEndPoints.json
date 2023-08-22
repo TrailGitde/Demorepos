@@ -1,0 +1,35 @@
+{
+  "SwaggerEndPoints": [
+    {
+      "Key": "APIGateway",
+      "Config": [
+        {
+          "Name": "API Gateway",
+          "Version": "v1",
+          "Url": "http://localhost:5001/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "AuthenticationMS",
+      "Config": [
+        {
+          "Name": "Authentication API",
+          "Version": "v1",
+          "Url": "http://localhost:4001/swagger/v1/swagger.json" // Replace the actual port number 
+        }
+      ]
+    }
+    //,
+    //{
+    //  "Key": "ExternalMS",
+    //  "Config": [
+    //    {
+    //      "Name": "External API",
+    //      "Version": "v1",
+    //      "Url": "https://localhost:7233/swagger/v1/swagger.json"
+    //    }
+    //  ]
+    //}
+  ]
+}

@@ -1,0 +1,68 @@
+2021-08-20 07:41:22.5423||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-20 07:41:32.7673|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-20 07:42:10.2304||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 07:42:20.3632||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 07:42:21.7790||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 07:50:49.3122||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 07:50:51.1359||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 07:52:31.8830||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 07:52:35.8093||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 07:52:36.1007||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 07:52:57.4488||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 07:52:57.7815||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 07:54:52.3916||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 07:54:57.1559||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 07:54:58.2883||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:46:47.2128||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-20 08:46:52.6706|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/swagger/v1/swagger.json|action: 
+2021-08-20 08:47:56.8402||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-20 08:47:58.3858||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:47:59.9165||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:52:03.7005||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-20 08:52:05.0533||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:52:06.4215||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:52:07.5673||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:52:08.0425||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:56:05.4729||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-20 08:56:06.6255||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:56:06.9871||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:56:08.1617||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:56:08.4329||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:57:43.4224||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Mail Sent successfully |url: http://localhost/api/IdentityUserQuery/ByEmailId|action: ByEmailId
+2021-08-20 08:57:44.7148||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:57:45.1055||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:57:46.2164||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:57:46.4856||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:58:39.3507||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:58:39.6144||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 08:58:47.8422||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 08:58:52.6837||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 08:58:52.9474||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 11:52:52.5016||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-20 11:53:11.7596|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-20 11:55:54.6711||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 11:56:08.4931||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 11:56:12.7966||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 11:56:14.1630||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 15:39:26.9109||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-20 15:39:29.0650|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/swagger/v1/swagger.json|action: 
+2021-08-20 17:12:24.0501||DEBUG|FrameWork.Authentication.Program|init main |url: |action: 
+2021-08-20 17:12:29.7354|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Swagger|action: 
+2021-08-20 17:26:33.7089||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 17:26:42.7376||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 17:26:43.0152||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 17:47:00.1071||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 17:47:02.6012||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 17:47:18.3199||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 17:47:18.5949||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 17:49:10.9289||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 17:49:12.7318||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 17:49:12.9917||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 17:53:22.0272||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 17:53:22.3008||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully |url: http://localhost/api/IdentityUser/UPDATE|action: UPDATE
+2021-08-20 18:12:52.8751||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 18:12:54.5941||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 18:12:54.9243||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 18:13:56.1904||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting |url: http://localhost/api/IdentityUserQuery/Authorize|action: Authorize
+2021-08-20 18:13:59.3675||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById
+2021-08-20 18:13:59.6426||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully |url: http://localhost/api/IdentityUserQuery/GetById|action: GetById

@@ -1,0 +1,18 @@
+2021-08-14 16:51:50.1065||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-14 16:51:53.1218|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-14 16:52:32.2855||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-14 16:54:08.7765||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Validate the Password of User 
+2021-08-14 16:54:20.7335||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Validate the Password of User 
+2021-08-14 16:55:13.4596||DEBUG|FrameWork.Authentication.Program|init main 
+2021-08-14 16:55:18.8733|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-08-14 16:56:12.3732||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-14 16:56:20.0297||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-14 16:56:20.3909||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 
+2021-08-14 17:34:01.1468||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Validate the Password of User 
+2021-08-14 17:34:03.9122||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update Starting 
+2021-08-14 17:34:05.5849||INFO|FrameWork.Authentication.API.Command.IdentityUserController|Identity User update completed successfully 
+2021-08-14 17:42:41.3600||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-14 17:42:41.6199||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize invalid username and password 
+2021-08-14 17:42:49.9879||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-08-14 17:42:52.0223||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById Starting 
+2021-08-14 17:42:52.3092||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User GetById completed successfully 

@@ -1,0 +1,18 @@
+2021-06-20 10:53:51.2285||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 10:53:54.5832|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-20 11:00:57.3143||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 11:00:58.9003|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-20 11:02:14.0671||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-06-20 11:02:14.8413||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully 
+2021-06-20 11:50:29.1153||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 11:50:38.7208|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-20 12:04:01.4055||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 12:04:03.3194|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-20 12:12:06.3292||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 12:12:09.8422|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-20 16:35:33.3350||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 16:35:37.8112|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-06-20 16:36:08.4951||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize Starting 
+2021-06-20 16:36:09.9212||INFO|FrameWork.Authentication.API.Queries.IdentityUserQueryController|Identity User Authorize completed successfully 
+2021-06-20 17:08:59.7168||DEBUG|FrameWork.Authentication.Program|init main 
+2021-06-20 17:09:01.1148|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 

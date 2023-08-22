@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uyu24Wv+nW9SLF2Mx9hgDdrGE01aTxa1NuX7SaQHrQQ=",
+  "Source": "ExternalMicroservices",
+  "BasePath": "_content/ExternalMicroservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

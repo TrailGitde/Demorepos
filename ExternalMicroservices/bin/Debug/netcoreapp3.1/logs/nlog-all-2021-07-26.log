@@ -1,0 +1,14 @@
+2021-07-26 10:49:08.4028||DEBUG|Configuration.Program|init main 
+2021-07-26 10:49:17.0725|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 12:09:17.7743||DEBUG|Configuration.Program|init main 
+2021-07-26 12:09:27.0665|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 15:10:48.1785||DEBUG|Configuration.Program|init main 
+2021-07-26 15:10:58.9301|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 16:41:36.4619||DEBUG|Configuration.Program|init main 
+2021-07-26 16:41:42.2373|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 17:12:53.3211||DEBUG|Configuration.Program|init main 
+2021-07-26 17:12:57.1237|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2021-07-26 19:30:52.1011||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-26 19:30:52.4362||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
+2021-07-26 19:34:21.2023||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Starting 
+2021-07-26 19:34:21.2023||INFO|Framework.Configuration.API.Command.SysSettingsController|Settings POST Completed successfully 
